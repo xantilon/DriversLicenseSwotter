@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "idlq", "..\..\..\..\..\..\Portable\xampplite\htdocs\idlq\", "{1F6D9A3B-832D-4404-9602-FF1668172B7F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/idlq"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Portable\xampplite\htdocs\idlq\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\idlq\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/idlq"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Portable\xampplite\htdocs\idlq\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\idlq\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53518"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6D9A3B-832D-4404-9602-FF1668172B7F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{1F6D9A3B-832D-4404-9602-FF1668172B7F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

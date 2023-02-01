@@ -1,0 +1,1350 @@
+<quiz>
+	<mchoice ID="10201001" type="ABCD">
+		<question>The registration of motorized vehicles excludes the registration of ________.</question>
+		<A>Loss</A>
+		<B>Registration</B>
+		<C>Alternation</C>
+		<D>Revocation</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201002" type="ABCD">
+		<question>If the residence of the owner of a registered motorized vehicle moves out of the area under the jurisdiction of the traffic control department of the public security organ, the vehicle owner should apply to the traffic control department of the public security organ that has registered the vehicle for ___________ registration.</question>
+		<A>Registration</A>
+		<B>Transfer</B>
+		<C>Alternation</C>
+		<D>Revocation</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201003" type="ABCD">
+		<question>If the residence of the owner of a registered motorized vehicle moves into the area under the jurisdiction of the traffic control department of the public security organ, the vehicle owner should apply to the traffic control department of the public security organ that has registered the vehicle for __________ registration.</question>
+		<A>Registration</A>
+		<B>Transfer</B>
+		<C>Revocation</C>
+		<D>Alternation</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201004" type="ABCD">
+		<question>When applying for the transfer registration of a motorized vehicle, the certificate or document the party does not have to provide to the traffic control department of the public security organ that registers this vehicle is ______________.</question>
+		<A>The driving license</A>
+		<B>The party's ID card</B>
+		<C>The vehicle license</C>
+		<D>The certificate and document on the transfer of the ownership of the vehicle</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201005" type="ABCD">
+		<question>If a registered motorized vehicle reaches the state's mandatory write-off standard, the owner of the vehicle should ____________ before the expiration of the write-off period.</question>
+		<A>Sell it to the waste recycling station</A>
+		<B>Sell to the vehicle recycling enterprise</B>
+		<C>Hand it over to the traffic control department of the public security organ</C>
+		<D>Hand it over to the department in charge of road transport administration</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201006" type="ABCD">
+		<question>If a registered motorized vehicle reaches the state's mandatory write-off standard, ______ should present the registration paper, license plate and vehicle license of the written-off vehicle to the traffic control department of the public security organ for revocation.</question>
+		<A>The owner</A>
+		<B>The driver</B>
+		<C>The recycling enterprise</C>
+		<D>The safety and technical inspection institution</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201007" type="ABCD">
+		<question>If the registration paper, license plate and vehicle license of a motorized vehicle are lost or destroyed and the vehicle owner applies for reissuing them, the owner should provide his ID card and application materials to the _______________.</question>
+		<A>The transport department</A>
+		<B>The traffic control department of the public security organ</B>
+		<C>The department in charge of industrial and commercial administration</C>
+		<D>The insurance company</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201008" type="ABCD">
+		<question>Painting and pasting signs or advertisements on the motorized vehicles should observe the principle that _________.</question>
+		<A>The painting and pasting can be done at will</A>
+		<B>The painting and pasting are mainly for artistic consideration</B>
+		<C>The painting and pasting should not affect safe driving</C>
+		<D>The painting and pasting should be done according to customer requests</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201009" type="ABCD">
+		<question>The small and mini non-commercial passenger vehicles should be inspected once every two years within __________ as from the date of registration.</question>
+		<A>2 years</A>
+		<B>3 years</B>
+		<C>4 years</C>
+		<D>6 years</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201010" type="ABCD">
+		<question>The small and mini non-commercial passenger vehicles should be inspected once every ________ from the 6th to the 15th year as from the date of registration.</question>
+		<A>6 months</A>
+		<B>1 year</B>
+		<C>2 years</C>
+		<D>3 years</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201011" type="ABCD">
+		<question>______ after a motorized vehicle driver obtains his driving license for the first time is his period of probation.</question>
+		<A>3 months</A>
+		<B>6 months</B>
+		<C>12 months</C>
+		<D>24 months</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201012" type="ABCD">
+		<question>The motorized vehicle driver is not allowed to drive __________ during his period of probation.</question>
+		<A>Small vehicle</A>
+		<B>Taxicab</B>
+		<C>Vehicle with automatic transmission</C>
+		<D>Three-wheeled automobile</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201013" type="ABCD">
+		<question>The period of validity of a motorized vehicle driving license is respectively ____, 10 years and lifelong.</question>
+		<A>1 year</A>
+		<B>2 years</B>
+		<C>5 years</C>
+		<D>6 years</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201014" type="ABCD">
+		<question>The cycle for recording the accumulated penalty points for violating road traffic safety regulations is ____________.</question>
+		<A>3 months</A>
+		<B>6 months</B>
+		<C>12 months</C>
+		<D>24 months</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201015" type="ABCD">
+		<question>If the accumulated penalty points of a motorized vehicle driver reach 12 points and the driver refuses to participate in the study course notified by the traffic control department of the public security organ and also refuses to take tests, the traffic control department of the public security organ _______________.</question>
+		<A>Should publicly announce that his driving license should no longer be used</A>
+		<B>Should detain his driving license</B>
+		<C>Should revoke his driving license</C>
+		<D>Impose a double fine on him</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201016" type="ABCD">
+		<question>If a motorized vehicle driving license is lost or destroyed and the motorized vehicle driver applies for reissuing it, the driver should provide his ID card and application materials to the _________.</question>
+		<A>The transport department</A>
+		<B>The traffic control department of the public security organ</B>
+		<C>The department in charge of industrial and commercial administration</C>
+		<D>The local police station</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201017" type="ABCD">
+		<question>When there is no speed limit sign or marking, the maximum speed for motorized vehicles on an urban road without the central dividing line is ________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>70km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201018" type="ABCD">
+		<question>When there is no speed limit sign or marking, the maximum speed for motorized vehicles on a highway without the central dividing line is ________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>70km</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201019" type="ABCD">
+		<question>When there is no speed limit sign or marking, the maximum speed for motorized vehicles on an urban road with only one lane for motorized vehicles in the same direction is ______________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>70km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201020" type="ABCD">
+		<question>When there is no speed limit sign or marking, the maximum speed for motorized vehicles on a highway with only one lane for motorized vehicles in the same direction is ___________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>70km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201021" type="ABCD">
+		<question>In a foggy weather with a visibility of less then 50 meters, the maximum speed for motor vehicles should be no more than ________________.</question>
+		<A>45km</A>
+		<B>30km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201022" type="ABCD">
+		<question>In a rainy weather with a visibility of less than 50 meters, the maximum speed for motor vehicles should be no more than ____________.</question>
+		<A>30km</A>
+		<B>45km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201023" type="ABCD">
+		<question>In a snowy weather with a visibility of less than 50 meters, the maximum speed for motor vehicles should be no more than ______________.</question>
+		<A>60km</A>
+		<B>50km</B>
+		<C>45km</C>
+		<D>30km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201024" type="ABCD">
+		<question>In a dusty weather with a visibility of less than 50 meters, the maximum speed for motor vehicles should be no more than _____________.</question>
+		<A>45km</A>
+		<B>30km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201025" type="ABCD">
+		<question>In a hailing weather with a visibility of less than 50 meters, the maximum speed for motor vehicles should be no more than _____________.</question>
+		<A>30km</A>
+		<B>45km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201026" type="ABCD">
+		<question>When a motor vehicle enters the lane for non-motorized vehicles, the maximum speed should be no more than ______________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201027" type="ABCD">
+		<question>When a motor vehicle leaves the lane for non-motorized vehicles, the maximum speed should be no more than __________.</question>
+		<A>60km</A>
+		<B>50km</B>
+		<C>40km</C>
+		<D>30km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201028" type="ABCD">
+		<question>When a motor vehicle passes a level crossing, the maximum speed should be no more than _____________.</question>
+		<A>50km</A>
+		<B>60km</B>
+		<C>30km</C>
+		<D>40km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201029" type="ABCD">
+		<question>When a motor vehicle passes sharp curve, the maximum speed should be no more than ________________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201030" type="ABCD">
+		<question>When a motor vehicle passes a narrow road, the maximum speed should be no more than _________.</question>
+		<A>50km</A>
+		<B>60km</B>
+		<C>30km</C>
+		<D>40km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201031" type="ABCD">
+		<question>When a motor vehicle passes a narrow bridge, the maximum speed should be no more than _______________.</question>
+		<A>50km</A>
+		<B>30km</B>
+		<C>60km</C>
+		<D>40km</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201032" type="ABCD">
+		<question>When a motor vehicle goes down a slope, the maximum speed should be no more than __________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201033" type="ABCD">
+		<question>When a motor vehicle makes a U turn, the maximum speed should be no more than _____________.</question>
+		<A>50km</A>
+		<B>40km</B>
+		<C>30km</C>
+		<D>60km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201034" type="ABCD">
+		<question>When a motor vehicle makes a turn, the maximum speed should be no more than _____________.</question>
+		<A>60km</A>
+		<B>50km</B>
+		<C>40km</C>
+		<D>30km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201035" type="ABCD">
+		<question>When a motor vehicle pulls a breakdown motorized vehicle, the maximum speed should be no more than _______________.</question>
+		<A>30km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201036" type="ABCD">
+		<question>When a motorized vehicle overtakes, it ______________.</question>
+		<A>Should overtake from the right side of the vehicle in front</A>
+		<B>Should overtake from the left side of the vehicle in front</B>
+		<C>May overtake from both sides of the vehicle in front</C>
+		<D>May not obey the speed limit</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201037" type="ABCD">
+		<question>When a following vehicle gives overtaking signals on a road without a central dividing line, the vehicle in front should _________________.</question>
+		<A>Maintain the original speed</A>
+		<B>Speed up</B>
+		<C>Immediately stop and yield</C>
+		<D>Reduce speed, move to the right side and yield if conditions permit</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201038" type="ABCD">
+		<question>When a following vehicle gives overtaking signals on a road with only one lane for motorized vehicles in the same direction, the vehicle in front should __________.</question>
+		<A>Reduce speed if conditions permit</A>
+		<B>Speed up</B>
+		<C>Stop in a timely manner</C>
+		<D>Maintain the normal speed</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201039" type="ABCD">
+		<question>When motorized vehicles have difficulty in crossing each other on a narrow mountain road, ____________ should go first.</question>
+		<A>The fast-moving vehicle</A>
+		<B>The loaded vehicle</B>
+		<C>The vehicle close to the mountain</C>
+		<D>The vehicle not close to the mountain</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201040" type="ABCD">
+		<question>When motorized vehicles cross each other on a narrow bridge, they should _________.</question>
+		<A>Speed up and pass</A>
+		<B>Reduce speed and pass on the right-hand side</B>
+		<C>Refuse to yield to the other side</C>
+		<D>Reduce speed and pass in the middle</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201041" type="ABCD">
+		<question>If there is an obstacle on one side of a road where two vehicles cross each other, ________ should go first.</question>
+		<A>The vehicle that has no obstacle in front</A>
+		<B>The vehicle that has no conditions to yield</B>
+		<C>The vehicle that has obstacle in front</C>
+		<D>The faster vehicle</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201042" type="ABCD">
+		<question>When motorized vehicles cross each other on a narrow slope, the correct method is to allow ______________ to go first.</question>
+		<A>The vehicle going up the slope</A>
+		<B>The vehicle far from the top of the slope</B>
+		<C>The vehicle going down the slope</C>
+		<D>The vehicle going up the slope should go first, if the one going down the slope is halfway on the slope and the one to go up the slope has not begun going up the slope</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201043" type="ABCD">
+		<question>When crossing each other at night, the vehicle should change to the low beam light at a distance of ______________ from the coming vehicle.</question>
+		<A>Less than 50 meters</A>
+		<B>More than 150 meters</B>
+		<C>Less 30 meters</C>
+		<D>Less than 100 meters</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201044" type="ABCD">
+		<question>The place where a U turn is allowed for motorized vehicles is ____________.</question>
+		<A>A level crossing</A>
+		<B>A crosswalk</B>
+		<C>A tunnel</C>
+		<D>A roundabout</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201045" type="ABCD">
+		<question>A motorized vehicle that will turn right at an intersection but has a vehicle in front in the same lane waiting for the green light should ______________.</question>
+		<A>Bypass the vehicle in front from the left side and go through the intersection</A>
+		<B>Honk to indicate the vehicle in front to yield</B>
+		<C>Bypass the vehicle in front from the right side and go through the intersection</C>
+		<D>Stop and wait for his turn</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201046" type="ABCD">
+		<question>At an intersection that has no directional traffic lights, _________________.</question>
+		<A>The motorized vehicle that will turn should yield to the vehicle that will go straight</A>
+		<B>The motorized vehicle that will go straight should yield to the vehicle that will turn</B>
+		<C>The motorized vehicle in the opposite direction that will turn left should yield to the vehicle that will turn right</C>
+		<D>The vehicles should bypass from the left or right side and go through the intersection</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201047" type="ABCD">
+		<question>A motorized vehicle that goes through an intersection without the traffic lights should _______.</question>
+		<A>Yield to the vehicle coming from the left side of the road</A>
+		<B>Yield to the vehicle coming from the right side of the road</B>
+		<C>The vehicle that turns left should yield to the vehicle that turns right</C>
+		<D>The vehicle that goes straight should yield to the turning vehicle</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201048" type="ABCD">
+		<question>When the motorized vehicles go through an intersection that has neither traffic lights nor traffic police to direct traffic, the vehicles coming in the opposite directions ___________.</question>
+		<A>The vehicle that goes straight should yield to the vehicle that turns left</A>
+		<B>The vehicle that turns left should yield to the vehicle that goes straight</B>
+		<C>The vehicle that turns right should yield to the vehicle that turns left</C>
+		<D>The vehicles may go through as they wish</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201049" type="ABCD">
+		<question>A motorized vehicle that encounters a traffic jam at the intersection in front should __________.</question>
+		<A>Stop outside the intersection and wait, instead of entering the intersection</A>
+		<B>Bypass from the left side and manage to go through the intersection</B>
+		<C>Bypass from the right side and manage to go through the intersection</C>
+		<D>Make a U turn immediately and leave in the opposite direction</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201050" type="ABCD">
+		<question>When a motorized vehicle has motorized vehicles stopping and waiting in line in front, the vehicle should _______________.</question>
+		<A>Weave through the vehicles in front from both sides</A>
+		<B>Overtake the vehicles in front from the left side</B>
+		<C>Overtake the vehicles in front from the right side</C>
+		<D>Queue up</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201051" type="ABCD">
+		<question>When a motorized vehicle that has motorized vehicles in front moving forward slowly, the vehicle should _________.</question>
+		<A>Weave through the vehicles in front from both sides</A>
+		<B>Stop and wait</B>
+		<C>Overtake the vehicles in front from both sides</C>
+		<D>Follow the vehicles in front</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201052" type="ABCD">
+		<question>Except for heavy-duty and midsize trucks, semi-trailers and vehicles carrying containers, the height of the loads on other cargo vehicles should not exceed ___________ from the ground.</question>
+		<A>2.5 M</A>
+		<B>3.5 M</B>
+		<C>4 M</C>
+		<D>4.2 M</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201053" type="ABCD">
+		<question>A small passenger vehicle ___________ .</question>
+		<A>Is not allowed to pull a trailer</A>
+		<B>Is allowed to pull two trailers</B>
+		<C>Is allowed to pull a trailer whose total weight does not exceed that of the small passenger vehicle</C>
+		<D>Is only allowed to pull a residential trailer or a trailer whose total weight is less than 700 KG</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201054" type="ABCD">
+		<question>When a motorized vehicle turns left, the driver should ____________ in advance.</question>
+		<A>Turn on the left-turn signal</A>
+		<B>Turn on the hazard lights</B>
+		<C>Turn on the right-turn signal</C>
+		<D>Make hand signal to other vehicles</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201055" type="ABCD">
+		<question>When a motorized vehicle changes to the left lane, the driver should __________ in advance.</question>
+		<A>Turn on the left-turn signal</A>
+		<B>Turn on the hazard lights</B>
+		<C>Continuously honk</C>
+		<D>Make hand signals to other vehicles</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201056" type="ABCD">
+		<question>Before a motorized vehicle overtakes, the driver should __________ in advance.</question>
+		<A>Turn on the hazard lights</A>
+		<B>Turn on the left-turn signal</B>
+		<C>Turn on the right-turn signal</C>
+		<D>Make hand signals to other vehicles</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201057" type="ABCD">
+		<question>When a motorized vehicle leaves a place where it has stopped, the driver should ________ in advance.</question>
+		<A>Continuously honk</A>
+		<B>Turn on the hazard lights</B>
+		<C>Turn on the left-turn signal</C>
+		<D>Make hand signals to other vehicles</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201058" type="ABCD">
+		<question>When a motorized vehicle makes a U turn, the driver should __________ in advance.</question>
+		<A>Make hand signals to other vehicles</A>
+		<B>Turn on the hazard lights</B>
+		<C>Turn on the right-turn signal</C>
+		<D>Turn on the left-turn signal</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201059" type="ABCD">
+		<question>When a motorized vehicle breaks down or causes a traffic accident at night, obstructs traffic flow and is difficult to move, the driver should turn on ___________, the contour lights and the tail lights.</question>
+		<A>The hazard lights</A>
+		<B>The high beam light</B>
+		<C>The low beam light</C>
+		<D>The fog light</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201060" type="ABCD">
+		<question>When a motorized vehicle turns right, changes to the right lane, returns to the original lane after overtaking or pulls over, the driver should ___________ in advance.</question>
+		<A>Turn on the hazard lights</A>
+		<B>Make hand signals to other vehicles</B>
+		<C>Turn on the right-turn signal</C>
+		<D>Turn on the left-turn signal</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201061" type="ABCD">
+		<question>When a motorized vehicle turns right, it should _______ in advance.</question>
+		<A>Turn on the hazard lights</A>
+		<B>Make hand signals to other vehicles</B>
+		<C>Turn on the left-turn signal</C>
+		<D>Turn on the right-turn signal</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201062" type="ABCD">
+		<question>When a motorized vehicle changes to a right lane, the driver should __________ in advance.</question>
+		<A>Turn on the right-turn signal</A>
+		<B>Make hand signals to other vehicles</B>
+		<C>Turn on the hazard lights</C>
+		<D>Turn on the left-turn light</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201063" type="ABCD">
+		<question>When a motorized vehicle returns to the original lane after overtaking, the driver should ________ in advance.</question>
+		<A>Turn on the hazard lights</A>
+		<B>Turn on the right-turn signal</B>
+		<C>Make hand signals to other vehicles</C>
+		<D>Turn on the left-turn signal</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201064" type="ABCD">
+		<question>when a motorized vehicle pulls over, the driver should ______ in advance.</question>
+		<A>Turn on the hazard lights</A>
+		<B>Make hand signals to other vehicles</B>
+		<C>Turn on the right-turn signal</C>
+		<D>Turn on the left-turn signal</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201065" type="ABCD">
+		<question>When a motorized vehicle runs in a foggy weather, the driver should turn on the fog light and ______.</question>
+		<A>The hazard lights</A>
+		<B>The directional signal</B>
+		<C>The high beam light</C>
+		<D>The low beam light</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201066" type="ABCD">
+		<question>When a motorized vehicle runs in the night and there are no street lamps, the driver should turn on ______, the contour light and the tail light</question>
+		<A>The directional signal</A>
+		<B>The fog light</B>
+		<C>The hazard lights</C>
+		<D>The head lights</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201067" type="ABCD">
+		<question>When a motorized vehicle runs at night and the street lighting is poor, the driver should turn on ________.</question>
+		<A>The head light, the contour light and the tail light</A>
+		<B>The fog light</B>
+		<C>The hazard lights</C>
+		<D>The contour light</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201068" type="ABCD">
+		<question>When a motorized vehicle runs close to a sharp curve or other sections that affect the safe visibility range, the driver should _______ and honk to indicate the intention.</question>
+		<A>Speed up and go forward</A>
+		<B>Reduce speed and go slowly</B>
+		<C>Use the hazard lights</C>
+		<D>Go forward at will</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201069" type="ABCD">
+		<question>When a motorized vehicle runs close to the top of a slope or other road sections that affect the safe visibility range, the vehicle should ________, and honk to indicate the intention.</question>
+		<A>Go forward swiftly</A>
+		<B>Use the hazard lights</B>
+		<C>Reduce speed and go slowly</C>
+		<D>Go forward at will</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201070" type="ABCD">
+		<question>When a motorized vehicle goes through an intersection that has no traffic lights, the driver should __________.</question>
+		<A>Use the high beam light</A>
+		<B>Use the low beam light</B>
+		<C>Use the hazard lights</C>
+		<D>Use the high and low beam lights alternately to indicate the intention</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201071" type="ABCD">
+		<question>When a motorized vehicle breaks down on the road in the daytime, obstructs the traffic flow and is difficult to move, the driver should turn on the hazard lights and place a warning sign ____________ behind the vehicle.</question>
+		<A>10 meters ~ 20 meters</A>
+		<B>20 meters ~ 30 meters</B>
+		<C>50 meters ~ 100 meters</C>
+		<D>100 meters ~ 150 meters</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201072" type="ABCD">
+		<question>When a motorized vehicle breaks down on the road at night, obstructs the traffic flow and is difficult to move, the driver should turn on the hazard lights, place a warning sign ____________ behind the vehicle, and turn on the contour light and the tail light.</question>
+		<A>100 meters ~ 150 meters</A>
+		<B>50 meters ~ 100 meters</B>
+		<C>20 meters ~ 30 meters</C>
+		<D>10 meters ~ 20 meters</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201073" type="ABCD">
+		<question>When using a soft connection to pull a vehicle, the distance between the puller and the pulled should be __________.?</question>
+		<A>Less than 0.5 meters</A>
+		<B>Less than 4 meters</B>
+		<C>4 meters ~ 10 meters</C>
+		<D>More than 10 meters</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201074" type="ABCD">
+		<question>When pulling a breakdown motorized vehicle, both the puller and the pulled should turn on _____________.</question>
+		<A>The front high beam light</A>
+		<B>The lift-turn signal</B>
+		<C>The right-turn signal</C>
+		<D>The hazard lights</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201075" type="ABCD">
+		<question>To pull a vehicle suffering _________, a hard pulling device should be used.</question>
+		<A>Engine damage</A>
+		<B>Braking failure</B>
+		<C>Horn failure</C>
+		<D>Steering failure</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201076" type="ABCD">
+		<question>To pull a breakdown motorized vehicle suffering steering failure, _______ should be used.</question>
+		<A>A special tow truck</A>
+		<B>A soft connection</B>
+		<C>A special wheeled machinery</C>
+		<D>A hard connection</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201077" type="ABCD">
+		<question>To pull a breakdown motorized vehicle suffering lighting and signaling failures, _________ should be used.</question>
+		<A>A soft connection</A>
+		<B>A special tow truck</B>
+		<C>A special wheeled machinery</C>
+		<D>A hard connection</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201078" type="ABCD">
+		<question>When driving a motorized vehicle downhill, the driver ____.</question>
+		<A>May coast down by stopping the engine</A>
+		<B>May coast down by using the neutral gear and not stopping the engine</B>
+		<C>May coast down by using the neutral gear</C>
+		<D>Should not coast down by using the neutral gear or stopping the engine</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201079" type="ABCD">
+		<question>A driver is not allowed to drive a motorized vehicle for ________ running without stopping the vehicle and having a rest.</question>
+		<A>4 hours</A>
+		<B>5 hours</B>
+		<C>6 hours</C>
+		<D>8 hours</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201080" type="ABCD">
+		<question>If a driver has driven a motorized vehicle for more than four hours running, he should stop the vehicle and rest for at least ____________.</question>
+		<A>5 minutes</A>
+		<B>10 minutes</B>
+		<C>20 minutes</C>
+		<D>40 minutes</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201081" type="ABCD">
+		<question>When a motorized vehicle stops temporarily at a place other than a parking lot, it should __________ but should not obstruct the flow of other vehicles and pedestrians.</question>
+		<A>Stop in the lane for non-motorized vehicles</A>
+		<B>Stop at the right side of the road in the coming direction</B>
+		<C>Stop at the left side of the road in the opposite direction</C>
+		<D>Stop at the roadside</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201082" type="ABCD">
+		<question>A motorized vehicle is not allowed to stop __________ to an intersection.</question>
+		<A>20 meters</A>
+		<B>30 meters</B>
+		<C>40 meters</C>
+		<D>50 meters</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201083" type="ABCD">
+		<question>A motorized vehicle is not allowed to stop _______ to a curve.</question>
+		<A>50 meters</A>
+		<B>40 meters</B>
+		<C>30 meters</C>
+		<D>20 meters</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201084" type="ABCD">
+		<question>A motorized vehicle _________ 50 meters to a narrow road.</question>
+		<A>Should speed up and pass</A>
+		<B>Should speed up</B>
+		<C>Should stop</C>
+		<D>Should not stop</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201085" type="ABCD">
+		<question>A motorized vehicle is not allowed to stop ______ to a steep slope.</question>
+		<A>50 meters</A>
+		<B>40 meters</B>
+		<C>30 meters</C>
+		<D>20 meters</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201086" type="ABCD">
+		<question>A motorized vehicle is not allowed to stop ____ to a tunnel.</question>
+		<A>20 meters</A>
+		<B>30 meters</B>
+		<C>40 meters</C>
+		<D>50 meters</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201087" type="ABCD">
+		<question>The motorized vehicles other than the public transport vehicles are not allowed to stop in the section _________ to the bus stop.</question>
+		<A>30 meters</A>
+		<B>20 meters</B>
+		<C>10 meters</C>
+		<D>5 meters</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201088" type="ABCD">
+		<question>A motorized vehicle is not allowed to stop in the section ____ to the first-aid station.</question>
+		<A>5 meters</A>
+		<B>10 meters</B>
+		<C>20 meters</C>
+		<D>30 meters</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201089" type="ABCD">
+		<question>The motorized vehicles other than those using the refueling facilities are not allowed to stop in the section ________ to a gas station.</question>
+		<A>30 meters</A>
+		<B>20 meters</B>
+		<C>10meters</C>
+		<D>5 meters</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201090" type="ABCD">
+		<question>A motorized vehicle is not allowed to stop in the section ______ to the fire hydrant or the fire brigade (station).</question>
+		<A>5 meters</A>
+		<B>10 meters</B>
+		<C>20 meters</C>
+		<D>30 meters</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201091" type="ABCD">
+		<question>A motorized vehicle ______________ in the section that has a divider between the lane for motorized vehicles and the lane for non-motorized vehicles.</question>
+		<A>May stop temporarily</A>
+		<B>Is not allowed to stop</B>
+		<C>May stop for a long time</C>
+		<D>May stop at will</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201092" type="ABCD">
+		<question>A motorized vehicle _________ in the section that has a divider between the lane for motorized vehicles and the lane for pedestrians.</question>
+		<A>May stop temporarily</A>
+		<B>May stop at will</B>
+		<C>Is not allowed to stop</C>
+		<D>May stop for a long time</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201093" type="ABCD">
+		<question>A motorized vehicle ______ in the crosswalk.</question>
+		<A>May stop temporarily</A>
+		<B>May stop at will</B>
+		<C>May stop for a long time</C>
+		<D>Is not allowed to stop</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201094" type="ABCD">
+		<question>A non-construction motorized vehicle _________ in the construction section.</question>
+		<A>Is not allowed to stop</A>
+		<B>May stop at will</B>
+		<C>May stop for a long time</C>
+		<D>May stop temporarily</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201095" type="ABCD">
+		<question>When a motorized vehicle runs normally on the expressway, the minimum speed should not be less than ___________ per hour.</question>
+		<A>50km</A>
+		<B>60km</B>
+		<C>70km</C>
+		<D>80km</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201096" type="ABCD">
+		<question>If an expressway has two lanes in the same direction, the minimum speed for the left lane is ________ per hour.</question>
+		<A>60km</A>
+		<B>80km</B>
+		<C>90km</C>
+		<D>100km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201097" type="ABCD">
+		<question>If an expressway has three or more lanes in the same direction, the minimum speed for the far left lane is __________ per hour.</question>
+		<A>80km</A>
+		<B>90km</B>
+		<C>110km</C>
+		<D>120km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201098" type="ABCD">
+		<question>If an expressway has three or more lanes in the same direction, the minimum speed for the middle lane is ________ per hour.</question>
+		<A>80km</A>
+		<B>90km</B>
+		<C>100km</C>
+		<D>110km</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201099" type="ABCD">
+		<question>When a motorized vehicle runs from the ramp to the expressway, it should turn on _______ and enters the carriageway unless it does not obstruct the normal running of the motorized vehicles already on the expressway. ?</question>
+		<A>The left-turn signal</A>
+		<B>The right-turn signal</B>
+		<C>The hazard lights</C>
+		<D>The head light</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201100" type="ABCD">
+		<question>When a motorized vehicle leaves the expressway, it should turn on _____, changes to the speed-reducing lane and reduce the speed before it leaves.?</question>
+		<A>The left-turn signal</A>
+		<B>The right-turn signal</B>
+		<C>The hazard lights</C>
+		<D>The head lights</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201101" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway at the speed of more than 100km per hour, it should keep a distance of ________ with the vehicle in front in the same lane.?</question>
+		<A>50 meters</A>
+		<B>60 meters</B>
+		<C>80 meters</C>
+		<D>100 meters</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201102" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway at the speed of less than 100km per hour, it should keep a properly shorter distance with the vehicle in front in the same lane but the distance should be at least ________.?</question>
+		<A>50 meters</A>
+		<B>40 meters</B>
+		<C>30 meters</C>
+		<D>20 meters</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201103" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in foggy and other weather conditions with a visibility range of less than 100 meters, it should keep a distance of ___________ with the vehicle in front in the same lane.</question>
+		<A>100 meters</A>
+		<B>50 meters</B>
+		<C>40 meters</C>
+		<D>30 meters</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201104" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in rainy and other weather conditions with a visibility range of less than 100 meters, it should keep a distance of ________ with the vehicle in front in the same lane.</question>
+		<A>30 meters</A>
+		<B>40 meters</B>
+		<C>50 meters</C>
+		<D>100 meters</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201105" type="ABCD">
+		<question>When a motorized vehicles runs on the expressway in snowy and other weather conditions with a visibility range of less than 100 meters, it should keep a distance of ________ with the vehicle in front in the same lane.</question>
+		<A>100 meters</A>
+		<B>50 meters</B>
+		<C>40 meters</C>
+		<D>30 meters</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201106" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in sandy and other weather conditions with a visibility range of less than 100 meters, it should keep a distance of _____ with the vehicle in front in the same lane.</question>
+		<A>30 meters</A>
+		<B>40 meters</B>
+		<C>50 meters</C>
+		<D>100 meters</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201107" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in hailing and other weather conditions with a visibility range of less than 100 meters, it should keep a distance of ________ with the vehicle in front in the same lane.</question>
+		<A>30 meters</A>
+		<B>40 meters</B>
+		<C>50 meters</C>
+		<D>100 meters</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201108" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in foggy and other weather conditions with a visibility range of less than 50 meters, the speed should not exceed ______ per hour.</question>
+		<A>60km</A>
+		<B>40km</B>
+		<C>20km</C>
+		<D>50km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201109" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in rainy and other weather conditions with a visibility range of less than 50 meters, the speed should not exceed _______ per hour.</question>
+		<A>60km</A>
+		<B>50km</B>
+		<C>40km</C>
+		<D>20km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201110" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in snowy and other weather conditions with a visibility range of less than 50 meters, the speed should not exceed ______ per hour.</question>
+		<A>20km</A>
+		<B>40km</B>
+		<C>50km</C>
+		<D>60km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201111" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in sandy and other weather conditions with a visibility range of less than 50 meters, the speed should not exceed ________ per hour.</question>
+		<A>60km</A>
+		<B>40km</B>
+		<C>20km</C>
+		<D>50km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201112" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in hailing and other weather conditions with a visibility range of less than 50 meters, the speed should not exceed ______ per hour.</question>
+		<A>60km</A>
+		<B>40km</B>
+		<C>20km</C>
+		<D>50km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201113" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in foggy and other weather conditions with a visibility range of less than 200 meters, the speed should not exceed ______ per hour.</question>
+		<A>60km</A>
+		<B>80km</B>
+		<C>90km</C>
+		<D>100km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201114" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in rainy and other weather conditions with a visibility range of less than 200 meters, the speed should not exceed _______ per hour.</question>
+		<A>100km</A>
+		<B>90km</B>
+		<C>80km</C>
+		<D>60km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201115" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in snowy and other weather conditions with a visibility range of less than 200 meters, the speed should not exceed _______ per hour.</question>
+		<A>60km</A>
+		<B>80km</B>
+		<C>90km</C>
+		<D>100km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201116" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in sandy and other weather conditions with a visibility range of less than 200 meters, the speed should not exceed _______ per hour.</question>
+		<A>60km</A>
+		<B>80km</B>
+		<C>90km</C>
+		<D>100km</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201117" type="ABCD">
+		<question>When a motorized vehicle runs on the expressway in hailing and other weather conditions with a visibility range of less than 200 meters, the speed should not exceed _______ per hour.</question>
+		<A>100km</A>
+		<B>90km</B>
+		<C>80km</C>
+		<D>60km</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201118" type="ABCD">
+		<question>When a motorized vehicle enters an expressway, it _________.</question>
+		<A>Can overtake in the ramp, the acceleration lane and the deceleration lane.</A>
+		<B>Is not allowed to reverse, drive in the opposite direction or make a U turn by crossing the central dividing strip</B>
+		<C>May drive in the emergency in a non-emergency case</C>
+		<D>May test the vehicle or learn to drive</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10201119" type="ABCD">
+		<question>When a motorized vehicle enters an expressway, it _______.</question>
+		<A>May drive by riding or rolling on the lane dividing line</A>
+		<B>May drive on the road shoulder</B>
+		<C>Is not allowed to overtake in the ramp, the acceleration lane or the deceleration lane</C>
+		<D>May learn to drive</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201120" type="ABCD">
+		<question>When a motorized vehicle runs on an expressway, it ________.</question>
+		<A>May stop on the road shoulder to let passengers on and off</A>
+		<B>May stop in the emergency lane to load and unload cargos</B>
+		<C>May overtake or stop in the acceleration or deceleration lane</C>
+		<D>Is not allowed to drive or stop in the emergency lane in a non-emergency case</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10201121" type="ABCD">
+		<question>If a motorized vehicle has a road accident with another motorized vehicle that has caused no human casualties and if the parties have no dispute over the fact and cause, the parties should ________.</question>
+		<A>Leave the scene and discuss compensation on their own</A>
+		<B>Park the vehicles on the scene, preserve the scene and wait for the traffic police to handle the case</B>
+		<C>Discuss compensation on the scene</C>
+		<D>Preserve the scene and request the insurance company to assess the damage</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10201122" type="ABCD">
+		<question>If a motorized vehicle and a non-motorized vehicle have a road accident which has caused no human casualties and if the parties have no dispute over the fact and cause, the parties should _____________.</question>
+		<A>Discuss compensation on the scene</A>
+		<B>Report to the police, wait for their arrival and do not drive away</B>
+		<C>Leave the scene and discuss compensation on their own</C>
+		<D>Preserve the scene</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201123" type="ABCD">
+		<question>The driver assumes full liability for a traffic accident if ______.</question>
+		<A>The accident is caused by the fault of a pedestrian</A>
+		<B>The accident is caused by the fault of a non-motorized vehicle</B>
+		<C>The driver deliberately damages or falsifies the scene and destroys the evidence</C>
+		<D>The accident is caused due to the violation of the traffic regulations by another motorized vehicle</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201124" type="ABCD">
+		<question>If a motorized vehicle registration or a driving license is obtained by deception, bribery or other illegal means, the vehicle registration or the driving license should be revoked and the applicant is not allowed to re-apply for motorized vehicle registration or driving license within ______.</question>
+		<A>1 year</A>
+		<B>2 years</B>
+		<C>3 years</C>
+		<D>5 years</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10201125" type="ABCD">
+		<question>If the driver, owner or manager of a detained motorized vehicle fails to accept the punishment within 30 days and still fails to accept the punishment ____ after the public announcement by the traffic control department of the public security organ, the vehicle shall be sold by auction.</question>
+		<A>1 month</A>
+		<B>3 months</B>
+		<C>6 months</C>
+		<D>12 months</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202001" type="YN">
+		<question>If a registered motorized vehicle changes the engine, the owner of the vehicle should apply to the traffic control department of the public security organ that has registered the vehicle for registration alternation.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202002" type="YN">
+		<question>If a registered motorized vehicle changes the chassis, the owner of the vehicle should apply to the traffic control department of the public security organ that has registered the vehicle for registration alternation.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202003" type="YN">
+		<question>When applying for the transfer registration of a motorized vehicle, the party should have the vehicle inspected by the traffic control department of the public security organ that has registered the vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202004" type="YN">
+		<question>When a driver drives a motorized vehicle during the period of probation, the driver should paste or hang a uniform probation mark on the rear part of the vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202005" type="YN">
+		<question>The driver of a motorized vehicle may drive a police car, a fire engine, a wrecker or an ambulance during the period of probation.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202006" type="YN">
+		<question>The driver of a motorized vehicle may, during the period of probation, drive a vehicle carrying dangerous articles under the supervision and guidance of a regular driver.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202007" type="YN">
+		<question>If the penalty points of a motorized vehicle driver fail to reach 12 points in one scoring cycle and if the fines have all been paid, the points will be eliminated.?</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202008" type="YN">
+		<question>If the penalty points of a motorized vehicle driver fail to reach 12 points in one scoring cycle but the fines have not been paid up, the points will also be eliminated.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202009" type="YN">
+		<question>If the driving license of a motorized vehicle driver is lost, the driver can still drive a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202010" type="YN">
+		<question>The motorized vehicle driver is not allowed to drive a motorized vehicle when his driving license is detained.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202011" type="YN">
+		<question>If a motorized vehicle driver has received 12 penalty points in one scoring cycle, the driver is not allowed to drive a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202012" type="YN">
+		<question>If a road has fast and slow lanes, all motorized vehicles should run in the slow lane and can enter the fast lane only when overtaking.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202013" type="YN">
+		<question>If a road has fast and slow lanes, all motorized vehicles except motorcycles should drive in the fast lane.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202014" type="YN">
+		<question>The motorized vehicle running in the fast lane should run at the prescribed speed for the fast lane, and should run in the slow lane if it fails to reach the prescribed speed for the fast lane.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202015" type="YN">
+		<question>When a motorized vehicle crosses a narrow road or a narrow bridge, the maximum speed should not exceed 30 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202016" type="YN">
+		<question>When a motorized vehicle crosses a level crossing, the maximum speed should not exceed 40 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202017" type="YN">
+		<question>When a motorized vehicle passes a sharp curve, the maximum speed should not exceed 30 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202018" type="YN">
+		<question>When a motorized vehicle pulls a breakdown vehicle, the maximum speed should not be less than 30 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202019" type="YN">
+		<question>When a motorized vehicle crosses a non-motorized vehicle on a narrow road or a narrow bridge at night, the motorized vehicle should use the high beam light.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202020" type="YN">
+		<question>On a road that has no central divider or central line, the motorized vehicle that has a vehicle coming in the opposite direction should reduce speed, drive on the right side of the road and keep a safe distance with other vehicles and pedestrians.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202021" type="YN">
+		<question>A motorized vehicle is not allowed to make a U turn at the place that has a sign prohibiting no left turn.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202022" type="YN">
+		<question>A motorized vehicle may make a U turn on a uphill road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202023" type="YN">
+		<question>When a motorized vehicle reverses, it should do so after knowing the situation behind the vehicle and making sure it is safe to reverse.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202024" type="YN">
+		<question>A motorized vehicle may reverse at an intersection.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202025" type="YN">
+		<question>A motorized vehicle is not allowed to reverse in a tunnel.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202026" type="YN">
+		<question>A motorized vehicle may choose to reverse on a one-way road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202027" type="YN">
+		<question>At an intersection that has the guide lanes, the motorized vehicles should enter the guide lanes according to the directions they are headed for.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202028" type="YN">
+		<question>When passing through an intersection that has neither traffic lights nor traffic police, the right-turning vehicles should yield to the left-turning vehicles coming in the opposite direction.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202029" type="YN">
+		<question>If a motorized vehicle has a breakdown or road accident, obstructs the traffic flow and is difficult to move, the vehicle should turn on the hazard lights.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202030" type="YN">
+		<question>If a motorized vehicle has a breakdown or road accident at night, obstructs the traffic flow and is difficult to move, all the vehicle should do is to turn on the hazard lights.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202031" type="YN">
+		<question>A pulled motorized vehicle is not allowed to carry people except in the driving cab but is allowed to pull a trailer.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202032" type="YN">
+		<question>A vehicle with breaking failure can be pulled with a soft connection.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202033" type="YN">
+		<question>The width of the pulled motorized vehicle should not be larger than that of the pulling motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202034" type="YN">
+		<question>Do not drive a vehicle when the door or compartment is not properly closed.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202035" type="YN">
+		<question>Do not hang or place articles close to the front and rear windows that block the vision of the driver.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202036" type="YN">
+		<question>When a motorized vehicle crosses an overflowing road or bridge, the driver should stop and look at the situation, and passes through slowly before he makes sure that it is safe to do so.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202037" type="YN">
+		<question>The motorized vehicles should drive slowly and yield to the pedestrians in the compounds of the units or in the residential areas.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202038" type="YN">
+		<question>The motorized vehicles should drive according to the speed limits shown on the speed limit signs erected in the compounds of the units or in the residential areas.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202039" type="YN">
+		<question>Closing or opening the doors of a motorized vehicle should not obstruct the flow of other vehicles and pedestrians.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202040" type="YN">
+		<question>When a motorized vehicle is on the road, the people inside the vehicle are not allowed to stick their heads out of the window but may stretch their hands out of the window.?</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202041" type="YN">
+		<question>When a motorized vehicle reaches a ferry, it should obey the command of the ferry managers and wait in line at the designated place. When getting on or leaving the ferry boat, the vehicle should drive slowly.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202042" type="YN">
+		<question>When the speed indicated by the speed limit sign on the expressway contradicts with the speed indicated for the specific lanes, the speed indicated for the specific lanes should prevail.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202043" type="YN">
+		<question>When a motorized vehicle runs on the expressway, its minimum distance with the vehicle in front in the same lane should not be less 30 meters.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202044" type="YN">
+		<question>When a motorized vehicle runs on the expressway in foggy and other weather conditions with a visibility range of less than 50 meters, the vehicle should not drive at a speed of more than 20 kilometers per hour and should leave the expressway from the nearest exit as soon as possible.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202045" type="YN">
+		<question>When a motorized vehicle runs on the expressway in rainy and other weather conditions with a visibility range of less than 50 meters, the speed of the vehicle should not exceed 40 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202046" type="YN">
+		<question>When a motorized vehicle runs on the expressway in snowy and other weather conditions with a visibility range of less than 50 meters, the speed of the vehicle should not exceed 30 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202047" type="YN">
+		<question>When a motorized vehicle runs on the expressway in sandy and other weather conditions with a visibility range of less than 50 meters, the speed of the vehicle should not exceed 50 kilometers per hour.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202048" type="YN">
+		<question>When a motorized vehicle runs on the expressway in hailing and other weather conditions with a visibility range of less than 50 meters, the vehicle should not drive at a speed of more than 20 kilometers per hour and should leave the expressway from the nearest exit as soon as possible.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202049" type="YN">
+		<question>People can test vehicles or learn to drive motorized vehicles on the expressway.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202050" type="YN">
+		<question>When a motorized vehicle runs on the expressway, it can overtake from the road shoulder.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202051" type="YN">
+		<question>When running on the expressway, the motorized vehicles are not allowed to reverse, drive in the opposite direction, make a U turn by crossing the central divider, or stop in the carriageways.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202052" type="YN">
+		<question>When running on the expressway, the motorized vehicles may drive or stop in the emergency lane in non-emergency cases.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202053" type="YN">
+		<question>The acceleration lane or the deceleration lane of the expressway allows the motorized vehicles to overtake.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202054" type="YN">
+		<question>When running on the expressway, the motorized vehicles are not allowed to ride and roll on the lane-dividing line or in the shoulder.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202055" type="YN">
+		<question>If a motorized vehicle causes a road accident and the party runs away, the party is not held liable for the accident.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10202056" type="YN">
+		<question>If the party files a civil action with the people's court during the mediation by the traffic control department of the public security organ, the mediation terminates.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202057" type="YN">
+		<question>The party has the right to make presentation and defense against the punishments meted out by the traffic control department of the public security organ or the traffic police.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10202058" type="YN">
+		<question>The traffic police may ignore the presentation and defense made by the party and may even increase the punishment against the party.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+</quiz>

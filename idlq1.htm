@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8"/>
+        <title>DLQ Swotter</title>
+        <style type="text/css" media="screen">@import "jqtouch/jqtouch.min.css";</style>
+        <style type="text/css" media="screen">@import "themes/jqt/theme.min.css";</style>
+        <script src="jqtouch/jquery.1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="jqtouch/jqtouch.min.js" type="application/x-javascript" charset="utf-8"></script>
+        <script src="DataLayer.js" type="text/javascript" charset="utf-8"></script>
+        
+    <script type="text/javascript" charset="utf-8">
+            var db;
+            var jQT = new $.jQTouch({
+                icon: 'jqtouch.png',
+                addGlossToIcon: false,
+                startupScreen: 'jqt_startup.png',
+                statusBar: 'black',
+                preloadImages: [
+                    'themes/jqt/img/back_button.png',
+                    'themes/jqt/img/back_button_clicked.png',
+                    'themes/jqt/img/button_clicked.png',
+                    'themes/jqt/img/grayButton.png',
+                    'themes/jqt/img/whiteButton.png',
+                    'themes/jqt/img/loading.gif'
+                    ]
+            });
+
+			var xmlDoc = '';
+  			var q = '';
+
+
+            $(function(){
+//		$('body').bind('turn', function(e, data){
+//                    $('#orient').html('Orientation: ' + data.orientation);
+//                });
+		//opendb('spotter','1.0','Meine Spots',65536);
+                openXML("dlqt.xml");
+				topicList();
+            });
+
+			function topicList(){
+		/*db.transaction(
+                    function (transaction){
+			transaction.executeSql("SELECT * FROM spotter;", [], dataHandler, errorHandler);
+                    }
+		) */
+                topics = xmlDoc.getElementsByTagName("t");
+                //dataHandlerTopics(topics);
+            }
+
+			function dataHandlerTopics(results){
+                for (var i=0; i<results.rows.length; i++){
+                    /*var row = results.rows.item(i);
+                    if (document.getElementById('listelem'+row['id'])) {
+			document.getElementsByTagName("body")[0].removeChild(document.getElementById(row['id']));
+			document.getElementById("spotlist").removeChild(document.getElementById('listelem'+row['id']));
+                    } */
+                    listElem = document.createElement("li");
+                    listElem.setAttribute("id",'listelem'+i);
+                    listElem.setAttribute("class","arrow");
+                    //anchorElem = document.createElement("a");
+                    //anchorElem.setAttribute("href","#"+row['id']+"");
+                    //anchorElem.appendChild(document.createTextNode(row['title']));
+                    listElem.appendChild(anchorElem);
+                    document.getElementById("spotlist").appendChild(listElem);
+                   /* panel = document.createElement("div");
+                    panel.setAttribute("id",row['id']);
+                    panel.setAttribute("class","item");
+                    headline = document.createElement("div");
+                    headline.setAttribute("class","toolbar");
+                    title = document.createElement("h1");
+                    title.appendChild(document.createTextNode(row['title']));
+                    back = document.createElement("a");
+                    back.setAttribute("href","#");
+                    back.setAttribute("class","back");
+                    back.appendChild(document.createTextNode("Back"));
+                    headline.appendChild(title);
+                    panel.appendChild(headline);
+                    desc = document.createElement("div");
+                    desc.setAttribute("class","info");
+                    ptag = document.createElement("p");
+                    ptag.appendChild(document.createTextNode(row['description']));
+                    desc.appendChild(ptag);
+                    map = document.createElement("img");
+                    var maplink = "http://maps.google.com/staticmap?center="+row['geodata']+"&markers="+row['geodata']+"&zoom=14&size=320x300&maptype=mobile&key=ABQIAAAAuIpFFkddDpgHMrIjlHUYtBTx_lpDPA9a705u7-aqMmFL26vNcBQFbqbjHRbMvLO2K8O8ZXH576J5Zg";
+                    map.setAttribute("src",maplink);
+                    itemdelete = document.createElement("a");
+                    itemdelete.setAttribute("href","#");
+                    itemdelete.setAttribute("onclick","rowdelete("+row['id']+');');
+                    itemdelete.appendChild(document.createTextNode("Eintrag löschen"));
+                    itemdelete.setAttribute("class","grayButton");
+                    panel.appendChild(back);
+                    panel.appendChild(desc);
+                    panel.appendChild(map);
+                    panel.appendChild(itemdelete);
+                    document.getElementsByTagName("body")[0].appendChild(panel);
+		*/}
+            }
+
+		function openXML(file) {
+		 /*xmlDoc=document.implementation.createDocument("", "doc", null)
+		 xmlDoc.load(file);
+		 xmlDoc.onload = readXML;*/
+		 var xmlhttp = new window.XMLHttpRequest();
+		 xmlhttp.open("GET",file,false);
+		 xmlhttp.send(null);
+		 xmlDoc = xmlhttp.responseXML.documentElement;
+
+		}
+		</script>
+</head>
+
+<body>
+    <div id="home" class="current">
+            <div class="toolbar">
+                <h1>Spotter</h1>
+                <a class="button slideup" id="infoButton" href="#newSpot">Neuer Spot</a>
+            </div>
+            <ul class="rounded" id="spotlist">
+
+            </ul>
+
+            <ul class="rounded">
+		<li class="forward"><a class="fade" href="#help">Hilfe</a></li>
+		<li class="forward"><a class="fade" href="#aboutme">Über...</a></li>
+            </ul>
+	</div>
+	<div id="help">
+            <div class="toolbar">
+                <h1>Hilfe</h1>
+                <a href="#" class="back">Zurück</a>
+            </div>
+            <div class="info">
+		Um einen neuen Spot anzulegen, tippen Sie auf "Neuer Spot" in der Titelleiste. Tragen Sie einen Titel und eine Beschreibung ein. Wenn Sie gefragt werden, ob die Webseite Ihren Ort abfragen darf, antworten Sie mit Ja. Diese Daten werden nicht an einen Server übertragen, sondern nur lokal auf Ihrem iPhone gespeichert.
+            </div>
+        </div>
+	<div id="aboutme">
+            <div class="toolbar">
+                <h1>Über...</h1>
+                <a href="#" class="back">Zurück</a>
+            </div>
+            <div class="info">
+		&copy; 2009, 2010 Alexander Ebner<br />
+		<a href="mailto:info@alex-ebner.de">info@alex-ebner.de</a><br /><br />
+		Der Spotter läuft mit <a href="http://jqtouch.org">jQTouch</a><br />
+		Nutzung des Spotters auf eigene Gefahr.
+            </div>
+	</div>
+</body>
+
+</html>

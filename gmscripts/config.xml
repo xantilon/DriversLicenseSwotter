@@ -1,0 +1,84 @@
+<UserScriptConfig>
+	<Script filename="gondal_allgemeines_skrip.user.js" name="Gondal (allgemeines Skript)" namespace="userscripts.org" description="Mit dem Skript kann man automatisch Dienste, Quests und Kaempfe machen.                                   " enabled="false" basedir="gondal_allgemeines_skrip">
+		<Include>http://*.gondal*.de/*</Include>
+	</Script>
+	<Script filename="gondalfight.user.js" name="gondal.fight" namespace="userscripts.org" description="Für eventuelle negative Folgen der Nutzung dieses Skripts übernehme ich keinerlei Verantwortung. " enabled="false" basedir="gondalfight">
+		<Include>http://w1.gondal.de/*</Include>
+		<Include>http://w2.gondal.de/*</Include>
+		<Include>http://www.gondal-de.de/*</Include>
+	</Script>
+	<Script filename="pimp_gondal.user.js" name="Pimp Gondal" namespace="userscripts.org" description="Makes things in Gondal much cooler" enabled="false" basedir="pimp_gondal">
+		<Include>http://gondal.de/*</Include>
+		<Include>http://*.gondal.de/*</Include>
+	</Script>
+	<Script filename="ikariamscorelinker.user.js" name="ikariamscorelinker" namespace="ikariam.immortal-nights.com" description="" enabled="true" basedir="ikariamscorelinker">
+		<Include>http://s*.ikariam.*/*</Include>
+	</Script>
+	<Script filename="girl_des_tages.user.js" name="Girl des Tages" namespace="bilder.zehn.de" description="" enabled="true" basedir="girl_des_tages">
+		<Include>http://bilder.zehn.de/*/images*</Include>
+	</Script>
+	<Script filename="imdb_pirated_version.user.js" name="IMDB Pirated Version" namespace="http://userscripts.org/scripts/show/21977" description="IMDB.com enhancer for pirates" enabled="true" basedir="imdb_pirated_version">
+		<Include>http://*.imdb.com/title/tt*</Include>
+		<Include>http://imdb.com/title/tt*</Include>
+		<Include>http://*.imdb.de/title/tt*</Include>
+		<Include>http://imdb.de/title/tt*</Include>
+	</Script>
+	<Script filename="rapidshare_autowait.user.js" name="Rapidshare AutoWait" namespace="rapidshare.com" description="" enabled="true" basedir="rapidshare_autowait">
+		<Include>http://rapidshare.com/files/*</Include>
+		<Include>http://www.rapidshare.com/files/*</Include>
+		<Include>http://rs*.rapidshare.com/files/*</Include>
+	</Script>
+	<Script filename="arenameistereddy.user.js" name="arenameisterEddy" namespace="w1.gondal.de" description="" enabled="true" basedir="arenameistereddy-1">
+		<Include>http://w1.gondal.de/*</Include>
+	</Script>
+	<Script filename="arenameister.user.js" name="Arenameister" namespace="userscripts.org" description="Dieses Skript ist in der Lage die Arenakämpfe bei Gondal, Artyria und Last Emperor vollständig zu übernehmen, insofern gewünscht. Für eventuelle negative Folgen der Nutzung dieses Skripts übernehme ich keinerlei Verantwortung." enabled="false" basedir="arenameister">
+		<Include>http://*gondal*.de/*</Include>
+		<Include>http://*artyria.com/*</Include>
+		<Include>http://*artyria.de/*</Include>
+		<Include>http://*last-emperor.de/*</Include>
+		<Include>http://*lastemperor.de/*</Include>
+	</Script>
+	<Script filename="google_account_multi-log.user.js" name="Google Account Multi-Login" namespace="http://www.crappytools.net" description="Replaces &quot;Sign Out&quot; link on Google pages with a select box of accounts." enabled="true" basedir="google_account_multi-log">
+		<Include>http://*.google.tld/*</Include>
+		<Include>https://*.google.tld/*</Include>
+		<Include>http://google.tld/*</Include>
+		<Include>https://google.tld/*</Include>
+		<Exclude>http*://mail.google.tld/*ui=1*</Exclude>
+	</Script>
+	<Script filename="questmeister.user.js" name="Questmeister" namespace="userscripts.org" description="Dieses Skript ist in der Lage die Quests bei Gondal, Artyria und Last Emperor vollständig zu übernehmen, insofern gewünscht. Für eventuelle negative Folgen der Nutzung dieses Skripts übernehme ich keinerlei Verantwortung." enabled="true" basedir="questmeister">
+		<Include>http://*gondal*.de/*</Include>
+		<Include>http://*artyria.com/*</Include>
+		<Include>http://*artyria.de/*</Include>
+		<Include>http://*last-emperor.de/*</Include>
+		<Include>http://*lastemperor.de/*</Include>
+	</Script>
+	<Script filename="empire_board_overthetop_.user.js" name="Empire Board OverTheTop AddOn" namespace="empire-board.ikariam" description="Add-on for Ikariam v3 Empire Board script (require v172 or higher) to display overviews while mouse-over advisors." enabled="false" basedir="empire_board_overthetop_">
+		<Include>http://s*.ikariam.*/*</Include>
+		<Exclude>http://support.ikariam.*/*</Exclude>
+		<Exclude>http://*.ikariam.*/*?view=premium</Exclude>
+		<Exclude>http://*.ikariam.*/*?view=premiumPayment</Exclude>
+		<Require filename="60774user.js"/>
+	</Script>
+	<Script filename="empire_board_shortcuts_a.user.js" name="Empire Board Shortcuts AddOn" namespace="empire-board.ikariam" description="Add-on for Ikariam v3 Empire Board script (require v168 or higher). Display buttons near advisors and provide keyboard shortcuts." enabled="false" basedir="empire_board_shortcuts_a">
+		<Include>http://s*.ikariam.*/*</Include>
+		<Exclude>http://support.ikariam.*/*</Exclude>
+		<Exclude>http://*.ikariam.*/*?view=premium</Exclude>
+		<Exclude>http://*.ikariam.*/*?view=premiumPayment</Exclude>
+		<Require filename="60774user.js"/>
+	</Script>
+	<Script filename="empire_board_graphic_add.user.js" name="Empire Board Graphic AddOn" namespace="empire-board.ikariam" description="Graphic add-on for Ikariam v3 Empire Board script (require v150 or higher)." enabled="false" basedir="empire_board_graphic_add">
+		<Include>http://s*.ikariam.*/*</Include>
+		<Exclude>http://support.ikariam.*/*</Exclude>
+		<Exclude>http://*.ikariam.*/*?view=premium</Exclude>
+		<Exclude>http://*.ikariam.*/*?view=premiumPayment</Exclude>
+		<Require filename="60774user.js"/>
+	</Script>
+	<Script filename="usualgirls.user.js" name="usualgirls" namespace="www.usualgirls.com" description="" enabled="true" basedir="usualgirls">
+		<Include>http://www.usualgirls.com/*</Include>
+	</Script>
+	<Script filename="ikariam_v3_empire_board.user.js" name="Ikariam v3 Empire Board" namespace="empire-board.ikariam" description="Display population, resources, trading, transports, incomes, buildings, and army or fleet units overviews for each cities. Require Ikariam v.0.3.x server game. Support any countries/languages." enabled="true" basedir="ikariam_v3_empire_board">
+		<Include>http://s*.ikariam.*/*</Include>
+		<Exclude>http://support.ikariam.*/*</Exclude>
+		<Require filename="60774user.js"/>
+	</Script>
+</UserScriptConfig>

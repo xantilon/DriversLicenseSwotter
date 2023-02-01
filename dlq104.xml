@@ -1,0 +1,34 @@
+<quiz>
+	<mchoice ID="10401001" type="ABCD">
+		<question>When avoiding an emergency, a motorized vehicle driver does not assume civil liability or just assume a proper degree of civil liability for the damage arising from _________.</question>
+		<A>Natural causes</A>
+		<B>Excess avoidance</B>
+		<C>Inappropriate measures</C>
+		<D>Failure to take measures</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10402001" type="YN">
+		<question>A motorized vehicle driver who has injured a pedestrian should assume the civil liability for traffic accident.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10402002" type="YN">
+		<question>When avoiding an emergency, a motorized vehicle driver does not need to assume civil liability for the injury of other people arising from his inappropriate measures.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10402003" type="YN">
+		<question>If a motorized vehicle driver infringes upon the property and personal safety of other people in a traffic accident arising from his fault, the driver should assume civil liability.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10402004" type="YN">
+		<question>If a normally running motorized vehicle has accidentally caused serious injury or death of other people, the driver should assume criminal liability and related administrative liability.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+</quiz>

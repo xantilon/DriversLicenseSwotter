@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- Created with XMLFox -->
+<quiz>
+  <t ID="100" text="Laws, Rules and Regulations on Road traffic safety">
+    <t2 ID="101" text="Law on Road Traffic Safety"/>
+    <t2 ID="102" text="Regulations on Implementing the Law on Road Traffic Safety "/>
+    <t2 ID="103" text="Criminal Law"/>
+    <t2 ID="104" text="General Principles of the Civil Law"/>
+    <t2 ID="105" text="Procedural Regulations for Handling Road Traffic Safety Violations"/>
+    <t2 ID="106" text="Procedural Regulations for Handling Traffic Accidents"/>
+    <t2 ID="107" text="Regulations on the Application for and Use of Motorized Vehicle Driving Licenses"/>
+    <t2 ID="108" text="Regulations on Motorized Vehicle Registration "/>
+    <t2 ID="109" text="Regulations on Mandatory Road Accident Insurance"/>
+  </t>
+	<t ID="200" text="RoadTraffic Signals and Their Meanings">
+		<t2 ID="201" text="Traffic Signal Lights "/>
+		<t2 ID="202" text="Traffic Signs"/>
+		<t2 ID="203" text="Traffic Markings"/>
+		<t2 ID="204" text="Hand Signals of Traffic Police"/>
+  </t>
+	<t ID="300" text="Knowledge on Safe and Courteous Driving">
+		<t2 ID="301" text="Essentials of Safe Operation"/>
+		<t2 ID="302" text="Impact of Driving Environment on Safe Driving "/>
+		<t2 ID="303" text="Courteous Driving "/>
+		<t2 ID="304" text="Safe Driving "/>
+  </t>
+	<t ID="400" text="Knowledge about Safe Driving on Expressways and Mountain Roads, through Bridges and Tunnels, at Night, in Bad Weather and Complex Road Conditions">
+		<t2 ID="401" text="Safe Driving on Expressways "/>
+		<t2 ID="402" text="Safe Driving on Mountain Roads"/>
+		<t2 ID="403" text="Safe Driving through Bridges and Tunnels"/>
+		<t2 ID="404" text="Safe Driving at Night"/>
+		<t2 ID="405" text="Safe Driving in Bad Weather and Complex Road Conditions"/>
+  </t>
+	<t ID="500" text="Knowledge on Dealing with Emergency such as Tire Blowout, Steering out of Control and Braking Failure etc">
+		<t2 ID="501" text="Emergency on Dealing with Tire Blowout"/>
+		<t2 ID="502" text="Energency on Dealing with Steering out of Control"/>
+		<t2 ID="503" text="Emergency on Dealing with Braking Failure"/>
+		<t2 ID="504" text="Emergency on Dealing with Going dead of an Engine"/>
+		<t2 ID="505" text="Emergency on Dealing with Vehicle Side Slide"/>
+		<t2 ID="506" text="Emergency on Dealing with Vehicle Collision"/>
+		<t2 ID="507" text="Emergency on Dealing with Vehicle Overturn"/>
+		<t2 ID="508" text="Emergency on Dealing with Vehicle Fire on Driving"/>
+		<t2 ID="509" text="Emergency on Dealing with Vehicle Falling into Water"/>
+		<t2 ID="510" text="Emergency on Avoiding Accidents on Expressways"/>
+		<t2 ID="511" text="Emergency on Dealing with Side Wind"/>
+		<t2 ID="512" text="Principles for Dealing with Emergencies"/>
+  </t>
+	<t ID="600" text="Common Kowledge on Overall Structures and Main Safety Devices of Motorized Vehicles and Routine Vehicle Inspection and Maintenance">
+		<t2 ID="601" text="Common knowledge on Overall Structures of Motorized Vehicles"/>
+		<t2 ID="602" text="Common knowledge on Main Safety Devices "/>
+		<t2 ID="603" text="Common knowledge on Routine Vehicle Inspection and Maintenance "/>
+  </t>
+	<t ID="700" text="Common Knowledge on Self-Rescue and First-Aid after Traffic Accident, and Common Dangerous Chemicals">
+		<t2 ID="701" text="Self-Rescue and First-Aid for the Wounded"/>
+		<t2 ID="702" text="Common Dangerous Chemicals"/>
+  </t>
+</quiz>

@@ -1,0 +1,50 @@
+<quiz>
+	<mchoice ID="10301001" type="ABCD">
+		<question>If a motorized vehicle driver has caused a traffic accident __________, the driver is subject to a prison term of 7 years ~ 15 years.</question>
+		<A>That has caused major consequences</A>
+		<B>That has caused serious injury</B>
+		<C>That has caused heavy loss to public or private property</C>
+		<D>And has run away, which has caused human death,</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10301002" type="ABCD">
+		<question>If a motorized vehicle driver has caused a major accident in violation of the traffic regulations which has caused serious injury, death, or heavy loss to public or private property and which constitutes a crime of traffic accident, the driver is subject to a prison term of less than ______ or a criminal detention.</question>
+		<A>1 year</A>
+		<B>2 years</B>
+		<C>3 years</C>
+		<D>4 years</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10301003" type="ABCD">
+		<question>If a motorized vehicle driver runs away or commits other extremely serious acts after causing a traffic accident, the driver is subject to a prison term of _____.</question>
+		<A>3 years ~ 7 years</A>
+		<B>2 years ~ 5 years</B>
+		<C>1 year ~ 3 years</C>
+		<D>3 years ~ 5 years</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10302001" type="YN">
+		<question>A motorized vehicle driver who escapes after causing a traffic accident is subject to a prison term of 3 years ~ 7 years.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10302002" type="YN">
+		<question>If a motorized vehicle driver escapes after causing a traffic accident which has caused human death, the driver is subject to a prison term of 7 years ~ 15 years.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10302003" type="YN">
+		<question>If a motorized vehicle driver has caused a major accident in violation of the traffic regulations which has caused serious injury or death, the driver is subject to a prison term of more than 3 years or a criminal detention.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10302004" type="YN">
+		<question>If a motorized vehicle driver has caused a major accident in violation of the traffic regulations which has caused heavy loss to public or private property and which constitutes a crime of traffic accident, the driver is subject to a prison term of less than 3 years or a criminal detention.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+</quiz>

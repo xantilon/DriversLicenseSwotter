@@ -1,0 +1,957 @@
+<quiz>
+	<mchoice ID="10101001" type="ABCD">
+		<question>The Law of the People's Republic of China on Road Traffic Safety is designed to maintain road traffic order, ___________________, and increase the efficiency of traffic flow.</question>
+		<A>Ensure vehicles can run  at high speed</A>
+		<B>Fulfill transport tasks satisfactorily</B>
+		<C>Protect the legitimate rights and interests of the citizens</C>
+		<D>Reduce traffic accidents</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101002" type="ABCD">
+		<question>A motorized vehicle can run on the road only after it has been registered with the _________________.</question>
+		<A>Institution in charge of road transport administration</A>
+		<B>Traffic control department of the public security organ</B>
+		<C>Department in charge of industrial and commercial administration</C>
+		<D>Tax department</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101003" type="ABCD">
+		<question>An unregistered motorized vehicle should _________________ if it has to run on the road temporarily.</question>
+		<A>Have a temporary pass</A>
+		<B>Register with the public security organ</B>
+		<C>Directly go and run on the road</C>
+		<D>Paste a certificate of inspection on the window</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101004" type="ABCD">
+		<question>When applying for motorized vehicle registration, the certificate or document the vehicle owner does not have to present is the ___________________.</question>
+		<A>Driving license</A>
+		<B>ID card and the certificate of origin of the motorized vehicle</B>
+		<C>Certificate of ex-factory inspection or the certificate of import for the motorized vehicle</C>
+		<D>Certificate of vehicle purchase tax payment or exemption</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101005" type="ABCD">
+		<question>If _______, a motorized vehicle does not need the relevant registration.</question>
+		<A>The ownership has changed</A>
+		<B>It is used as a mortgage</B>
+		<C>It is under overhaul</C>
+		<D>It has been scrapped.</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101006" type="ABCD">
+		<question>A motorized vehicle reaching the scrapping standard _________ .</question>
+		<A>Is permitted to temporarily run on the road</A>
+		<B>Is not allowed to run on the road</B>
+		<C>May run on the road after being repaired</C>
+		<D>May run on the road after the administrative fee is paid</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101007" type="ABCD">
+		<question>The institution allowed to confiscate and detain motorized vehicle driving licenses is the _____________.</question>
+		<A>Department in charge of road transport administration</A>
+		<B>Traffic control department of the public security organ</B>
+		<C>Department in charge of industrial and commercial administration</C>
+		<D>Tax department</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101008" type="ABCD">
+		<question>When driving a motorized vehicle on the road, the driver _____________.</question>
+		<A>May not bring the driving license with him</A>
+		<B>May not bring the vehicle license with him</B>
+		<C>Must bring the driving license, the vehicle license and the label of mandatory insurance with him</C>
+		<D>Should bring the certificate of ex-factory inspection or the certificate of import with him</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101009" type="ABCD">
+		<question>Before driving a motorized vehicle on the road, the driver should carefully check the __________ of the vehicle.</question>
+		<A>Safety and technical conditions</A>
+		<B>Overall structure</B>
+		<C>All parts</C>
+		<D>Gear oil</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101010" type="ABCD">
+		<question>The motorized vehicle driver __________________.</question>
+		<A>May drive at will when there is no traffic signal</A>
+		<B>Should drive according to the traffic rules and in a safe and courteous manner</B>
+		<C>May drive at will when there is no traffic police</C>
+		<D>May drive according to his habit</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101011" type="ABCD">
+		<question>The driver may drive a motorized vehicle __________________.</question>
+		<A>After drinking alcohol</A>
+		<B>When he suffers from a disease that impedes safe driving</B>
+		<C>When he is exhausted</C>
+		<D>After drinking tea</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101012" type="ABCD">
+		<question>The traffic control department of the public security organ detains the driving license of a motorized vehicle and ______________ if the driver's accumulated penalty points reach the stipulated limit.</question>
+		<A>Educated him on the law and regulations on road traffic safety</A>
+		<B>Detaind the motorized vehicle</B>
+		<C>Revoked the vehicle license</C>
+		<D>Imposed administrative detention</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101013" type="ABCD">
+		<question>___________ of the following are not road traffic signals.</question>
+		<A>Traffic lights</A>
+		<B>Traffic bulletin board</B>
+		<C>Command of the traffic police</C>
+		<D>Traffic signs</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101014" type="ABCD">
+		<question>__________ of the following are not road traffic signals.</question>
+		<A>Warning lights</A>
+		<B>Traffic signs</B>
+		<C>Command of the traffic police</C>
+		<D>Traffic markings</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101015" type="ABCD">
+		<question>The illustrated hand signal of the traffic police indicates that the vehicles should _______________.</question>
+		<A>Turn right</A>
+		<B>Go straight</B>
+		<C>Turn left</C>
+		<D>Pull over</D>
+		<L>B</L>
+		<picture>image003</picture>
+	</mchoice>
+	<mchoice ID="10101016" type="ABCD">
+		<question>The illustrated hand signal of the traffic police indicates that the vehicles should _______________.</question>
+		<A>Go straight</A>
+		<B>Turn right sharply</B>
+		<C>Turn left sharply</C>
+		<D>Pull over</D>
+		<L>C</L>
+		<picture>image005</picture>
+	</mchoice>
+	<mchoice ID="10101017" type="ABCD">
+		<question>The illustrated hand signal of the traffic police indicates that the vehicle violating the traffic rules should __________________.</question>
+		<A>Pull over</A>
+		<B>Turn right</B>
+		<C>Turn left</C>
+		<D>Go straight</D>
+		<L>A</L>
+		<picture>image006</picture>
+	</mchoice>
+	<mchoice ID="10101018" type="ABCD">
+		<question>When driving a motorized vehicle, the driver must obey the principle of _______.</question>
+		<A>Right-hand driving</A>
+		<B>Left-hand driving</B>
+		<C>Inner lane driving</C>
+		<D>Middle lane driving</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101019" type="ABCD">
+		<question>On the road not divided into the lane for motorized vehicles, the lane for non-motorized vehicles and the sidewalk, the motorized vehicles should run ___________.</question>
+		<A>On both sides of the road</A>
+		<B>In the middle of the road</B>
+		<C>According to lanes</C>
+		<D>At will</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101020" type="ABCD">
+		<question>When there is a traffic police on the spot to direct traffic, the motorized vehicle should  run according to _________.</question>
+		<A>Road signs</A>
+		<B>Traffic lights</B>
+		<C>Command of the traffic police</C>
+		<D>Road markings</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101021" type="ABCD">
+		<question>When running on the road having no traffic signs or markings, the motorized vehicle should ___________________________.</question>
+		<A>Drive at will</A>
+		<B>Speed up</B>
+		<C>Stop and look around before going ahead</C>
+		<D>Pass if it is safe to do so and the traffic is not obstructed</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101022" type="ABCD">
+		<question>When running on the road having maximum speed limit signs, the motorized vehicle _______________.</question>
+		<A>Is not allowed to exceed the marked maximum speed</A>
+		<B>Is allowed to exceed the marked maximum speed by 10%</B>
+		<C>May run faster than the designed maximum speed of the vehicle</C>
+		<D>Should run at the stipulated maximum speed</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101023" type="ABCD">
+		<question>When running in the road section having no speed limit signs, the motorized vehicle _____________.</question>
+		<A>Should run at the designed maximum speed of the vehicle</A>
+		<B>Is not subject to speed limit</B>
+		<C>Should run at a safe speed</C>
+		<D>May run at will</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101024" type="ABCD">
+		<question>When running at night or going through a dangerous road section, the motorized vehicle should ________________________.</question>
+		<A>Run at the designed maximum speed</A>
+		<B>Reduce speed and drive carefully</B>
+		<C>Maintain the existing speed</C>
+		<D>Run faster than the stipulated maximum speed</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101025" type="ABCD">
+		<question>When encountering sand, hail, rain, snow, fog, ice and other weather conditions, the motorized vehicle should run ___________________. </question>
+		<A>At a fairly high speed</A>
+		<B>Faster than the stipulated maximum speed</B>
+		<C>At the existing speed</C>
+		<D>At reduced speed</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101026" type="ABCD">
+		<question>When going through an intersection that has no traffic lights, traffic signs, traffic markings or traffic police, the motorized vehicle should ______________.</question>
+		<A>Go through rapidly</A>
+		<B>Reduce speed and go through slowly</B>
+		<C>Properly speed up</C>
+		<D>Maintain the existing speed</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101027" type="ABCD">
+		<question>When running through a road section or intersection where lanes are reduced, the motorized vehicle should ___________________.</question>
+		<A>Move to another lane and overtake</A>
+		<B>Pass alternately</B>
+		<C>Speed up and pass</C>
+		<D>Jump to another lane and pass</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101028" type="ABCD">
+		<question>When encountering slow-moving vehicles at an intersection that has no traffic signals, the motorized vehicle should ___________________.</question>
+		<A>Move to the right lane and overtake</A>
+		<B>Overtake from the left</B>
+		<C>Pass alternately</C>
+		<D>Cut in the waiting vehicles</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101029" type="ABCD">
+		<question>When going through a railway crossing with traffic signals, the motorized vehicle should ______________.</question>
+		<A>Pass at the normal speed</A>
+		<B>Maintain a safe speed</B>
+		<C>Speed up as fast as possible</C>
+		<D>Pass according to the traffic signals</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101030" type="ABCD">
+		<question>When going through a railway crossing with managerial personnel, the motorized vehicle should _____________.</question>
+		<A>Pass at the normal speed</A>
+		<B>Obey the command of the managerial personnel</B>
+		<C>Speed up as fast as possible</C>
+		<D>Maintain a safe speed</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101031" type="ABCD">
+		<question>When going safely through a railway crossing without traffic signals, the motorized vehicle should _______________.</question>
+		<A>Pass at the original speed</A>
+		<B>Slow down or stop and look</B>
+		<C>Speed up and pass as fast as possible</C>
+		<D>Closely follow the vehicle in front</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101032" type="ABCD">
+		<question>When going through a railway crossing without managerial personnel, the motorized vehicle should _________________.</question>
+		<A>Go at the original speed</A>
+		<B>Closely follow the vehicle in front</B>
+		<C>Speed up and pass as fast as possible</C>
+		<D>Slow down or stop and look</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101033" type="ABCD">
+		<question>When pedestrians are crossing a crosswalk, the motorized vehicle should _________.</question>
+		<A>Stop and yield</A>
+		<B>Bypass</B>
+		<C>Honk continuously and pass</C>
+		<D>Speed up in advance and pass</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101034" type="ABCD">
+		<question>When running on a road without traffic signals and encountering pedestrians crossing the road, the motorized vehicle should __________________.</question>
+		<A>Honk to urge the pedestrians to go faster</A>
+		<B>Speed up and pass</B>
+		<C>Reduce speed or stop and yield</C>
+		<D>Bypass</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101035" type="ABCD">
+		<question>When a motorized vehicle has a problem on the road and needs to stop and solve it, the driver should immediately open the hazard warning flash lights and _______________.</question>
+		<A>Stop on the spot so as to avoid mechanical breakdown</A>
+		<B>Move the vehicle to a place where it does not obstruct the traffic</B>
+		<C>Stop the vehicle immediately and place a warning sign in front of it</C>
+		<D>Stop the vehicle and immediately report to the police</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101036" type="ABCD">
+		<question>When a motorized vehicle breaks down on the road and cannot be moved, the driver should first turn on the hazard warning flash lights and _________________.</question>
+		<A>Concentrate on solving the problem</A>
+		<B>Seek help from the passing vehicles</B>
+		<C>Place a warning sign in the coming direction</C>
+		<D>Immediately report to the police</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101037" type="ABCD">
+		<question>When a motorized vehicle breaks down on the road and cannot be moved, the driver should first of all _______________________.</question>
+		<A>Concentrate on solving the problem</A>
+		<B>Seek help from the passing vehicles</B>
+		<C>Immediately report to the police</C>
+		<D>Keep the hazard warning flash lights on</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101038" type="ABCD">
+		<question>When the police car, fire engine, ambulance and wrecker are executing an emergency task, other vehicles _____________________.</question>
+		<A>May speed up and join them</A>
+		<B>May overtake with care</B>
+		<C>May yield depending on circumstances</C>
+		<D>Should yield</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101039" type="ABCD">
+		<question>When the police car, fire engine, ambulance and wrecker are not executing an emergency task, they ___________________.</question>
+		<A>Do not have the priviledged passing right of way</A>
+		<B>Have the priviledged passing right of way</B>
+		<C>Other vehicles and pedestrians should yield</C>
+		<D>May weave through at will</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101040" type="ABCD">
+		<question>When the road maintenance vehicle and the engineering vehicle are on duty, the passing vehicles and people ______________________.?</question>
+		<A>May overtake</A>
+		<B>Should avoid with care</B>
+		<C>May not yield</C>
+		<D>Should stick to their respective lanes</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101041" type="ABCD">
+		<question>A wrong parking by a motorized vehicle means _______________.</question>
+		<A>Should park in the designated place</A>
+		<B>No parking in the sidewalk</B>
+		<C>Stopping temporarily on the road but not obstructing the passing of other vehicles and pedestrians </C>
+		<D>Parking in the lane for non-motorized vehicles</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101042" type="ABCD">
+		<question>The maximum speed indicated by an expressway speed limit sign should be no more than _____________.</question>
+		<A>100km</A>
+		<B>110km</B>
+		<C>120km</C>
+		<D>150km</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101043" type="ABCD">
+		<question>When a motorized vehicle breaks down on an expressway, the warning sign should be placed ____________ away in the coming direction.</question>
+		<A>30 M</A>
+		<B>50 M</B>
+		<C>100 M</C>
+		<D>150 M</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101044" type="ABCD">
+		<question>When causing a road accident involving human casualties, the driver should ____________, and report to the traffic police on duty or the traffic control department of the public security organ as soon as possible.</question>
+		<A>Immediately rescue the injured people</A>
+		<B>Move the vehicle to a safe place rapidly</B>
+		<C>Leave the scene and discuss compensation on his own</C>
+		<D>Check the vehicle damage first</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101045" type="ABCD">
+		<question>When causing a road accident involving no human casualties, the parties to the accident should __________________ if they have no dispute over the fact and cause.</question>
+		<A>Park the vehicles in the original place, preserve the scene and wait for the traffic police to handle</A>
+		<B>Immediately leave the scene and discuss compensation on their own</B>
+		<C>Not leave the scene</C>
+		<D>Preserve the scene and request the insurance company to assess the damage</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101046" type="ABCD">
+		<question>When causing a road accident involving only slight property damage and the basic fact is clear, the parties to the accident ___________________.</question>
+		<A>Should not leave the scene</A>
+		<B>Should report to the police immediately</B>
+		<C>Should first leave the scene and then discuss how to solve the problem</C>
+		<D>Should park the vehicles in the original place and discuss compensation</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101047" type="ABCD">
+		<question>A motorized vehicle driver who has violated the provisions on road traffic of the law and regulations on road traffic safety is subject to a warning or ______________.</question>
+		<A>A fine of 20 yuan ~ 200 yuan</A>
+		<B>A fine of 200 yuan ~ 1,000 yuan</B>
+		<C>A fine of 500 yuan ~ 2,000 yuan</C>
+		<D>Revocation of the driving license</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101048" type="ABCD">
+		<question>A motorized vehicle driver who drives after drinking alcohol is subject to the temporary detention of the driving license for __________and also a fine of 200 yuan ~ 500 yuan.</question>
+		<A>12 months</A>
+		<B>6 months</B>
+		<C>3~6 months</C>
+		<D>1~3 months</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101049" type="ABCD">
+		<question>A motorized vehicle driver who drives after getting drunk should be restrained by the traffic control department of the public security organ till he sobers up. In addition, the driver is subject to a detention for ________, a temporary detention of his driving license for 3~6 months and a fine of 500 yuan ~ 2,000 yuan.</question>
+		<A>60 days</A>
+		<B>30 days</B>
+		<C>More than 15 days</C>
+		<D>Less than 15 days</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101050" type="ABCD">
+		<question>If a motorized vehicle driver violates the provisions on the parking and temporary stopping of motorized vehicles of the law and regulations on road traffic safety, the driver is subject to a fine of __________ if he is not present at the scene and his vehicle obstructs the flow of other vehicles and pedestrians,</question>
+		<A>10 yuan ~ 20 yuan</A>
+		<B>20 yuan</B>
+		<C>20 yuan ~ 200 yuan</C>
+		<D>More than 200 yuan</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101051" type="ABCD">
+		<question>If a motorized vehicle driver violates the provisions on the parking and temporary stopping of motorized vehicles of the law and regulations on road traffic safety, the driver is subject to a fine of ________ if the driver is present at the scene but refuses to drive away, and his vehicle obstructs the flow of other vehicles and pedestrians,</question>
+		<A>20 yuan ~ 200 yuan</A>
+		<B>20 yuan</B>
+		<C>10 yuan ~ 20 yuan</C>
+		<D>More than 200 yuan</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101052" type="ABCD">
+		<question>If a motorized vehicle on the road has no license plate, the traffic control department of the public security organ should ____________________.</question>
+		<A>Detain the driver</A>
+		<B>Impose a fine of 200 yuan ~ 2,000 yuan</B>
+		<C>Impose a fine of more than 2,000 yuan</C>
+		<D>Detain the vehicle</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101053" type="ABCD">
+		<question>If a motorized vehicle running on the road fails to place a label of inspection, the traffic control department of the public security organ should _______________.</question>
+		<A>Revoke the driving license</A>
+		<B>Detain the vehicle</B>
+		<C>Detain the license plate</C>
+		<D>Detain the driver</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101054" type="ABCD">
+		<question>If a motorized vehicle running on the road fails to place the label of insurance, the traffic control department of the public security organ should _____________________.</question>
+		<A>Detain the driver</A>
+		<B>Detain the license plate</B>
+		<C>Revoke the driving license</C>
+		<D>Detain the vehicle</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101055" type="ABCD">
+		<question>If a motorized vehicle running on the road fails to bring the vehicle license with it, the traffic control department of the public security organ should __________________.</question>
+		<A>Revoke the driving license</A>
+		<B>Detain the license plate</B>
+		<C>Detain the vehicle</C>
+		<D>Detain the driver</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101056" type="ABCD">
+		<question>The motorized vehicle driver who has deliberately covered or stained the license plate is subject to _______ or a fine of 20 yuan ~ 200 yuan.</question>
+		<A>a 12-point penalty</A>
+		<B>a warning</B>
+		<C>adetention of the vehicle</C>
+		<D>a detention of the driver</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101057" type="ABCD">
+		<question>A motorized vehicle driver who has failed to install the license plate according to stipulations is subject to ____________ or a fine of 20 yuan ~ 200 yuan.</question>
+		<A>a 12-point penalty</A>
+		<B>a warning</B>
+		<C>a detention of the driver</C>
+		<D>a detention of the vehicle</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101058" type="ABCD">
+		<question>If a motorized vehicle driver has falsified or altered vehicle registration papers or has used the falsified or altered vehicle registration papers, the traffic control department of the public security organ should confiscate these papers, ________ and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Revoke the vehicle license</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the driver</C>
+		<D>Detain the vehicle</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101059" type="ABCD">
+		<question>If a motorized vehicle driver has falsified or altered the license plate or has used the falsified or altered license plate, the traffic control department of the public security organ should _______, detain the vehicle and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Confiscate the license plate</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the driver</C>
+		<D>Revoke the vehicle license</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101060" type="ABCD">
+		<question>If a motorized vehicle driver has falsified or altered the vehicle license or has used the falsified or altered vehicle license, the traffic control department of the public security organ should confiscate the vehicle license, ___________ and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Confiscate the license plate</A>
+		<B>Detain the vehicle</B>
+		<C>Detain the driver</C>
+		<D>Revoke the driving license</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101061" type="ABCD">
+		<question>If a motorized vehicle driver has falsified or altered the label of inspection or has used the falsified or altered label of inspection, the traffic control department of the public security organ should confiscate the label of inspection, ________ and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Revoke the vehicle license</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the vehicle</C>
+		<D>Detain the driver</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101062" type="ABCD">
+		<question>If a motorized vehicle driver has falsified or altered the label of insurance or has used the falsified or altered label of insurance, the traffic control department of the public security organ should confiscate the label of insurance, ________ and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Revoke the vehicle license</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the driver</C>
+		<D>Detain the vehicle</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101063" type="ABCD">
+		<question>If a motorized vehicle driver has falsified or altered the driving license or has used the falsified or altered driving license, the traffic control department of the public security organ should confiscate the driving license, ___________ and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Revoke the vehicle license</A>
+		<B>Confiscate the license plate</B>
+		<C>Detain the vehicle</C>
+		<D>Detain the driver</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101064" type="ABCD">
+		<question>If a motorized vehicle driver uses the vehicle registration papers, license plate, vehicle license, label of inspection and label of insurance of other vehicles, the traffic control department of the public security organ should confiscate them, ________ and impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>Detain the vehicle</A>
+		<B>Detain the driver</B>
+		<C>Confiscate the license plate</C>
+		<D>Revoke the vehicle license</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101065" type="ABCD">
+		<question>If a motorized vehicle driver has illegally installed siren and marker light, the traffic control department of the public security organ should force him to remove them, confiscate them and impose a fine of ___________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 2,000 yuan</C>
+		<D>More than 2,000 yuan</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101066" type="ABCD">
+		<question>If a motorized vehicle driver who fails to obtain a driving license drives a motorized vehicle, the traffic control department of the public security organ should impose a fine of ____________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 1,000 yuan</C>
+		<D>200 yuan ~ 2,000 yuan</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101067" type="ABCD">
+		<question>If a motorized vehicle driver drives a motorized vehicle when his driving license is temporarily detained, the traffic control department of the public security organ should impose a fine of ____________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 2,000 yuan</C>
+		<D>200 yuan ~ 1,000 yuan</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101068" type="ABCD">
+		<question>If a motorized driver who fails to obtain a driving license drives a motorized vehicle, the traffic control department of the public security organ should impose a fine according to the stipulations and may also _____________.</question>
+		<A>Detain the driver for less than 15 days</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the vehicle</C>
+		<D>Ban the driver for five years from re-obtaining a driving license</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101069" type="ABCD">
+		<question>If a motorized driver whose driving license has been revoked drives a motorized vehicle, the traffic control department of the public security organ should impose a fine according to the stipulations and may also __________.</question>
+		<A>Revoke the driving license</A>
+		<B>Detain the driver for less than 15 days</B>
+		<C>Ban the driver for five years from re-obtaining a driving license</C>
+		<D>Detain the vehicle</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101070" type="ABCD">
+		<question>If a motorized vehicle driver drives a motorized vehicle when his driving license is temporarily detained, the traffic control department of the public security organ should impose a fine according to the stipulations and may also ___________.</question>
+		<A>Revoke the driving license</A>
+		<B>Ban the driver for five years from re-obtaining a driving license</B>
+		<C>Detain the driver for less than 15 days</C>
+		<D>Detain the vehicle</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101071" type="ABCD">
+		<question>If a motorized vehicle driver allows his vehicle to be driven by a person who has not obtained a driving license, the traffic control department of the public security organ should impose a fine of __________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 2,000 yuan</C>
+		<D>More than 2,000 yuan</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101072" type="ABCD">
+		<question>If a motorized vehicle driver allows his vehicle to be driven by a person whose driving license has been revoked or temporarily detained, the traffic control department of the public security organ should impose a fine of _________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 1,000 yuan</C>
+		<D>200 yuan ~ 2,000 yuan</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101073" type="ABCD">
+		<question>If a motorized vehicle driver allows his vehicle to be driven by a person who has not obtained a driving license, the traffic control department of the public security organ should impose a fine according to the stipulations and may also _______________.</question>
+		<A>Detain the driver for less than 15 days</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the vehicle</C>
+		<D>Ban the driver for five years from re-obtaining a driving license</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101074" type="ABCD">
+		<question>If a motorized vehicle driver allows his vehicle to be driven by a person whose driving license has been revoked or temporarily detained, the traffic control department of the public security department should impose a fine according to the stipulations and may also ___________________.</question>
+		<A>Detain the driver for less than 15 days</A>
+		<B>Ban the driver for five years from re-obtaining a driving license</B>
+		<C>Detain the vehicle</C>
+		<D>Revoke the driving license</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101075" type="ABCD">
+		<question>If a motorized vehicle driver causes a traffic accident and runs away but his conduct does not constitute a crime, the traffic control department of the public security organ should impose a fine of ____________________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 2,000 yuan</C>
+		<D>More than 2,000 yuan</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101076" type="ABCD">
+		<question>If a motorized vehicle driver causes a traffic accident and runs away but his conduct does not constitute a crime, the traffic control department of the public security organ should impose a fine according to the stipulations and may also ________________.</question>
+		<A>Detain the driver for less than 15 days</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the vehicle</C>
+		<D>Ban the driver for five years from re-obtaining a driving license</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101077" type="ABCD">
+		<question>If a motorized vehicle runs _________ faster than the specified speed limit, the traffic control department of the public security organ should impose a fine of 200 yuan ~ 2,000 yuan.</question>
+		<A>10%</A>
+		<B>20%</B>
+		<C>30%</C>
+		<D>50%</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101078" type="ABCD">
+		<question>If a motorized vehicle runs 50% faster than the specified speed limit, the traffic control department of the public security organ should impose a fine according to the stipulations and may also ________________.</question>
+		<A>Detain the driver for less than 15 days</A>
+		<B>Revoke the driving license</B>
+		<C>Detain the vehicle</C>
+		<D>Ban the driver for three years from re-obtaining a driving license</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101079" type="ABCD">
+		<question>If a motorized vehicle driver forces his way through in violation of the traffic control regulations and refuses to accept dissuasion, the traffic control department of the public security organ should impose a fine of ________________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 2,000 yuan</C>
+		<D>More than 2,000 yuan</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101080" type="ABCD">
+		<question>If a motor vehicle driver has deliberately destroyed, moved or altered traffic facilities and his conduct has caused serious consequences but does not constitute a crime, the traffic control department of the public security organ should impose a fine of ________.</question>
+		<A>100 yuan ~ 200 yuan</A>
+		<B>200 yuan ~ 500 yuan</B>
+		<C>200 yuan ~ 1,000 yuan</C>
+		<D>200 yuan ~ 2,000 yuan</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101081" type="ABCD">
+		<question>If a driver drives an illegalled assembled motorized vehicle on the road, the driver is subject to a fine of 200 yuan ~ 2,000 yuan and _______________.</question>
+		<A>Should also be detained</A>
+		<B>The driving license should be revoked</B>
+		<C>The vehicle license should be revoked</C>
+		<D>Also a 12-point penalty</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10101082" type="ABCD">
+		<question>If a driver drives a motorized vehicle on the road, which has reached the write-off standard, the driver is subject to a fine of 200 yuan ~ 2,000 yuan and __________.</question>
+		<A>Should also be detained</A>
+		<B>The vehicle license should be revoked</B>
+		<C>The driving license should be revoked</C>
+		<D>The driving license should be temporarily detained</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101083" type="ABCD">
+		<question>If a person sells a motorized vehicle that has reached the write-off standard, his illegal proceeds should be confiscated, a fine equivalent to the proceeds from selling the vehicle should be imposed, the vehicle should be confiscated, and ___________.</question>
+		<A>The vehicle purchaser should be detained</A>
+		<B>The vehicle seller should be detained</B>
+		<C>The driving license of the vehicle purchaser should be revoked</C>
+		<D>The vehicle should be arbitrarily written off</D>
+		<L>D</L>
+	</mchoice>
+	<mchoice ID="10101084" type="ABCD">
+		<question>If a party fails to perform the decision on administrative punishment, the administrative organ that has made the decision on administrative punishment may ______________.</question>
+		<A>Apply to the people's court for enforcement</A>
+		<B>Apply to the people's procuratorate for enforcement</B>
+		<C>Revoke the driving license of the party</C>
+		<D>Detain the party for less than 15 days</D>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10101085" type="ABCD">
+		<question>The person who has violated the road traffic regulations should go to the ________ within 15 days to accept punishment.</question>
+		<A>People procuratorate</A>
+		<B>People's court</B>
+		<C>Traffic control department of the public security organ</C>
+		<D>Department in charge of road transport administration</D>
+		<L>C</L>
+	</mchoice>
+	<mchoice ID="10101086" type="ABCD">
+		<question>If a person has violated the road traffic regulations and has failed to accept punishment without justification within a time limit, _________.</question>
+		<A>The person should be detained for 15 days</A>
+		<B>His driving license should be revoked</B>
+		<C>His vehicle should be detained</C>
+		<D>Be banned for lifetime from re-obtaining a driving license</D>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102001" type="YN">
+		<question>The Law of the People's Republic of China on Road Traffic Safety is enacted to strengthen the administration over the motorized vehicles.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102002" type="YN">
+		<question>All vehicle drivers, pedestrians and passengers on the roads within the People's Republic of China must abide by the Law of the People's Republic of China on Road Traffic Safety.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102003" type="YN">
+		<question>All the units and individuals who are related to the road traffic activities within the People's Republic of China must abide by the Law of the People's Republic of China on Road Traffic Safety.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102004" type="YN">
+		<question>The pedestrians and passengers on the road should act in reference to the Law of the People's Republic of China on Road Traffic Safety.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102005" type="YN">
+		<question>A motorized vehicle without a license plate may run on the road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102006" type="YN">
+		<question>A motorized vehicle without a label of inspection may run on the road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102007" type="YN">
+		<question>A motorized vehicle without a label of insurance may run on the road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102008" type="YN">
+		<question>A person who drives a motorized vehicle on the road must bring the vehicle license with the vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102009" type="YN">
+		<question>The license plate of a motorized vehicle should be installed according to the stipulations, should be clear and complete and should not be covered or stained.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102010" type="YN">
+		<question>No unit or individual is allowed to confiscate or detain the license plate of a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102011" type="YN">
+		<question>If a motorized vehicle has reached the write-off standard, its revocation registration must be handled in a timely manner.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102012" type="YN">
+		<question>Siren or marker light may be installed on a motorized vehicle according to personal need.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102013" type="YN">
+		<question>No unit or individual is allowed to illegally assemble a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102014" type="YN">
+		<question>A professional repair enterprise may change the model number, engine number and the chassis number of a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102015" type="YN">
+		<question>A professional repair enterprise may change the vehicle identification code.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102016" type="YN">
+		<question>No unit or individual is allowed to falsify or alter the registration papers, license plate, vehicle license, label of inspection and label of insurance of a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102017" type="YN">
+		<question>If approved by a transport enterprise, the altered registration papers, license plate, vehicle license, label of inspection and label of insurance may of a motorized vehicle may be used.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102018" type="YN">
+		<question>A unit or individual may temporarily use the label of inspection and the label of insurance of another motorized vehicle on the road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102019" type="YN">
+		<question>A transport enterprise may internally redistribute the labels of inspection and the labels of insurance of motorized vehicles on the road.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102020" type="YN">
+		<question>A motorized vehicle driver may drive a motorized vehicle on the road only after he has passed the tests administered by the traffic control department of the public security organ and obtained the driving license.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102021" type="YN">
+		<question>If a person who has a foreign driving license for motorized vehicle and has passed the tests administered by the traffic control department of the public security organ, a Chinese driving license for motorized vehicle may be issued to him.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102022" type="YN">
+		<question>Nobody is allowed to drive a motorized vehicle that has safety hazards such as incomplete safety devices or technically substandard components</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102023" type="YN">
+		<question>A person who drinks alcohol but is not drunk may drive a motorized vehicle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102024" type="YN">
+		<question>Uniformed road traffic signals are used nationwide.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102025" type="YN">
+		<question>Driving a motorized vehicle should observe the left-hand driving principle.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102026" type="YN">
+		<question>If a road is divided into the lane for motorized vehicles, the lane for non-motorized vehicles and the lane for pedestrians, the motorized vehicles, the non-motorized vehicles and the pedestrians should use the lanes designed respectively for them.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102027" type="YN">
+		<question>If a road has a special lane, other vehicles may use the special lane for overtaking.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102028" type="YN">
+		<question>A small motorized vehicle may overtake a police car performing an emergency task.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102029" type="YN">
+		<question>Motorized vehicles are not allowed to overtake at the intersections.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102030" type="YN">
+		<question>When a motorized vehicle passes a curve, it may overtake rapidly if no accident will occur.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102031" type="YN">
+		<question>Motorized vehicles should pass the intersections according to the traffic signals.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102032" type="YN">
+		<question>When a road maintenance vehicle or an engineering vehicle is operating, other vehicles do not have to yield.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102033" type="YN">
+		<question>When a motorized vehicle temporarily stops on the road, it should not obstruct the flow of other vehicles and pedestrians.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102034" type="YN">
+		<question>A motorized vehicle whose designed maximum speed is less than 70km is allowed to enter the expressways.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102035" type="YN">
+		<question>When a motorized vehicle breaks down on the expressway, the persons on board should swiftly move to the front of the vehicle for hiding.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102036" type="YN">
+		<question>If a motorized vehicle breaks down or causes a traffic accident on the expressway and cannot to run normally, the vehicle should be towed by a rescue vehicle or a tow truck.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102037" type="YN">
+		<question>When a road accident causes human casualties and the vehicle driver needs to change the scene for rescuing the wounded, the driver should mark the location.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102038" type="YN">
+		<question>The punishments against the violations of the regulations on road traffic safety include warning, fine, temporary detention or revocation of the driving license, and detention.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102039" type="YN">
+		<question>A driver may drive on the road an illegally assembled motorized vehicle or a motorized vehicle reaching the saraped standard.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+	<mchoice ID="10102040" type="YN">
+		<question>If a person who has violated the provisions of the law and regulations on road traffic safety and has caused a major traffic accident and if his act constitutes a crime, he should be held for criminal liabilities according to law and his driving license should be revoked by the traffic control department of the public security organ.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102041" type="YN">
+		<question>If a person has caused a traffic accident and run away, the traffic control department of the public security organ should revoke his driving license and ban him for lifetime from re-obtaining a driving license.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102042" type="YN">
+		<question>If a party fails to pay the fine within the time limit, the administrative organ that has made the decision on administrative punishment may impose an additional fine at the daily rate of 3% of the original fine.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102043" type="YN">
+		<question>The 'roads' mentioned in the Law of the People's Republic of China on Road Traffic Safety refer to the highways, urban roads and the places that are within the jurisdiction of the units but allow the passing of social motorized vehicles.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>A</L>
+	</mchoice>
+	<mchoice ID="10102044" type="YN">
+		<question>Squares, public parking lots and other places for public passing do not belong to the 'roads' mentioned in the Law of the People's Republic of China on Road Traffic Safety.</question>
+		<A>Right</A>
+		<B>Wrong</B>
+		<L>B</L>
+	</mchoice>
+</quiz>

@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head><!--html manifest="dlq.manifest">-->
+    <!--<meta name="viewport" content="width=320" />-->
+    
+    <title>iDLQ</title>
+    
+    <script src="jqtouch/jquery.1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="jqtouch/jqtouch.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <style type="text/css" media="screen">@import "jqtouch/jqtouch.min.css";</style>
+    <style type="text/css" media="screen">@import "themes/jqt/theme.min.css";</style>    
+    
+    <link href="dlq.css" rel="stylesheet" type="text/css" />
+    
+
+    <script src="Topics.js" type="text/javascript"></script>
+    <script src="classQuestion.js" type="text/javascript"></script>
+    <script src="Questions.js" type="text/javascript"></script>
+    
+    <script lang="javascript" type="text/javascript">
+    
+    
+    $.jQTouch({
+                icon: 'jqtouch.png',
+                addGlossToIcon: true,
+                startupScreen: 'jqt_startup.png',
+                statusBar: 'black',
+                touchSelector: '#swipeme',
+                preloadImages: [
+                    'themes/jqt/img/back_button.png',
+                    'themes/jqt/img/back_button_clicked.png',
+                    'themes/jqt/img/button_clicked.png',
+                    'themes/jqt/img/grayButton.png',
+                    'themes/jqt/img/whiteButton.png',
+                    'themes/jqt/img/loading.gif'
+                    ]
+            });
+            
+    var xmlDoc = '';
+    var xmlDocQ;
+    var q = '';
+    var t = new Array(7);
+    var t1 = new Array(9); 
+    var t2 = new Array(4);
+    var t3 = new Array(4);
+    var t4 = new Array(5);
+    var t5 = new Array(12);
+    var t6 = new Array(3);
+    var t7 = new Array(2);
+    var currentQuestion = new cQuestion; 
+  
+  function InitializeTopics()
+  {
+    getTopics();
+    //FillDB();
+    openXMLQ("dlq.xml");
+    currentQuestion = getQ(10101001);
+    currentQuestion = getQ(70202005);
+    currentQuestion = getQ(20201015);
+    
+    
+    var i;
+    var listElem;
+    var anchorElem;
+    for(i=0; i < t.length; i++)
+    {        
+        listElem = document.createElement("li");
+        listElem.setAttribute("id",'listelem'+i);
+        listElem.setAttribute("class","arrow");
+        anchorElem = document.createElement("a");
+        anchorElem.setAttribute("href","#level"+(i+1)+"");
+        anchorElem.appendChild(document.createTextNode(t[i]));
+        listElem.appendChild(anchorElem);
+        document.getElementById("level0").appendChild(listElem);
+    }    
+    
+//    openXML("dlqt.xml");
+//    i = 1;
+//    $(xmlDocQ).find('t').each(function(){
+//        $('<li class="arrow"></li>').html('<a href="#level'+(i++)+'"></a>').html($(this).attr('text')).appendTo('#level0');    
+//        //$(this).find('t2').each(function(){
+//            
+//    }
+        
+    var divElem;
+    var divToolbar;
+    var h1Elem;
+    var aElem;
+    var divInfo;
+    var ulElem;
+    var topArray;
+    
+    for(i=1; i <= 7; i++)
+    {        
+    
+        divElem = document.createElement("div");
+        divElem.setAttribute("id","level"+i+"");
+          divToolbar = document.createElement("div");
+          divToolbar.setAttribute("class","toolbar");
+          // h1Elem = document.createElement("h1");
+          // h1Elem.appendChild(document.createTextNode(t[i-1]));
+          //divToolbar.appendChild(h1Elem);
+           aElem = document.createElement("a");
+           aElem.setAttribute("href","#");
+           aElem.setAttribute("class","back");
+           aElem.appendChild(document.createTextNode("Back"));
+          divToolbar.appendChild(aElem);
+        divElem.appendChild(divToolbar);
+          divInfo = document.createElement("div");
+          divInfo.setAttribute("class","info");
+          divInfo.setAttribute("id","level"+i+"info");
+          divInfo.appendChild(document.createTextNode(t[i-1]));
+        divElem.appendChild(divInfo);  
+          ulElem = document.createElement("ul");
+          ulElem.setAttribute("class","rounded");
+          ulElem.setAttribute("id","level"+i+"list");
+        
+        switch(i)
+        {
+        case 1: topArray = t1; break;
+        case 2: topArray = t2; break;
+        case 3: topArray = t3; break;   
+        case 4: topArray = t4; break;   
+        case 5: topArray = t5; break;   
+        case 6: topArray = t6; break;   
+        case 7: topArray = t7; break;   
+        }
+        
+        for(j=0; j < topArray.length; j++)
+        {      
+            var startid = calcStartID(i,j);  
+            listElem = document.createElement("li");
+            listElem.setAttribute("id",'listelem'+j);
+            listElem.setAttribute("class","arrow");
+            anchorElem = document.createElement("a");
+            anchorElem.setAttribute("href","#question1234");
+            anchorElem.appendChild(document.createTextNode(topArray[j]));
+            listElem.appendChild(anchorElem);
+            ulElem.appendChild(listElem);
+                    
+        }
+           
+         divElem.appendChild(ulElem);   
+        document.body.appendChild(divElem); 
+    }
+
+  }
+  
+  function calcStartID(i,j)
+  {
+    return 10101001;
+  }
+    </script>
+
+</head>
+<body onload="InitializeTopics()">  
+
+        <div id="home" class="current">
+            <div class="toolbar">
+                <h1>iDLQ</h1>
+                <a class="button slideup" id="infoButton" href="#aboutme">Info</a>
+            </div>
+            <ul class="rounded" id="level0">
+
+            </ul>
+
+            <ul class="rounded">
+		<li class="forward"><a class="fade" href="#aboutme">Über...</a></li>
+            </ul>
+	</div>
+	    
+    <div id="question1234">
+        <div class="toolbar">
+            <h1 id="qH1">1.</h1>
+            <a href="#" class="back" id="qBack">Back</a>
+            <a href="#question1234" class="button btNext" id="qNext">Next</a>
+            <a href="#question1234" class="button btPrev" id="qPrev">Prev</a>
+            
+        </div>
+        
+        <div class="question" id="qInfo">question1234</div>
+        
+        <ul class="rounded" id="qUl">
+            <li id="qA"></li>
+            <li id="qB"></li>
+            <li id="qC"></li>
+            <li id="qD"></li>
+        </ul>
+    </div>     
+        
+	<div id="aboutme">
+            <div class="toolbar">
+                <h1>About...</h1>
+                <a href="#" class="back">Back</a>
+            </div>
+            <div class="info">
+		&copy; 2010 ubicomputing.de<br />
+		<a href="mailto:eh@ubicomputing.de">eh@ubicomputing.de</a><br /><br />
+		Use at your own risk.
+            </div>
+	</div>
+    <script type="text/javascript">
+    
+    
+        $("#qA").click(function (e) {
+            showSolution("A",currentQuestion.L);
+            e.preventDefault();
+            return false;
+        });
+        $("#qB").click(function (e) {
+            showSolution("B",currentQuestion.L);            
+            e.preventDefault();
+          return false;
+        });
+        $("#qC").click(function (e) {
+            showSolution("C",currentQuestion.L);
+            e.preventDefault();
+          return false;
+        });
+        $("#qD").click(function (e) {
+            showSolution("D",currentQuestion.L);
+            e.preventDefault();
+          return false;
+        });
+        $("#qPrev").click(function (e) {
+            alert("Prev");
+           //e.preventDefault();
+          return true;
+        });
+        $("#qNext").click(function (e) {
+            alert("Next");
+           //e.preventDefault();
+          return true;
+        });
+    $('#question1234').bind("swipe",function(event, data){
+   alert(data.direction);
+});
+$('#question1234').swipe(function(e, info){
+                    if (info.direction === 'left') {
+                        jQT.goTo($('#aboutme'), 'pageflip');
+                    }
+                });
+                $('#question1234').swipe(function(e, info){
+                    if (info.direction === 'right') {
+                        jQT.goBack('#home');
+                    }
+                })
+    </script>
+</body>
+</html>

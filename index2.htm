@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <!--html manifest="dlq.manifest">-->
+    <!--<meta name="viewport" content="width=320" />-->
+    <title>iDLQ</title>
+
+    <script src="jqtouch/jquery.1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="jqtouch/jqtouch.js" type="text/javascript" charset="utf-8"></script>
+
+    <style type="text/css" media="screen">
+        @import "jqtouch/jqtouch.min.css";
+    </style>
+    <style type="text/css" media="screen">
+        @import "themes/apple/theme.css";
+    </style>
+    <link href="dlq.css" rel="stylesheet" type="text/css" />
+
+    <script src="classQuestion.js" type="text/javascript"></script>
+
+    <script src="Questions.js" type="text/javascript"></script>
+
+    <script lang="javascript" type="text/javascript">
+    
+    var page = (location.hash) ? location.hash : '';
+    $jQT = new $.jQTouch({
+                icon: 'jqtouch.png',
+                addGlossToIcon: true,
+                startupScreen: 'themes/jqt/img/jqt_startup.png',
+                statusBar: 'black',
+                touchSelector: '.swipeme',
+                preloadImages: [
+                    'themes/apple/img/back_button.png',
+                    'themes/apple/img/back_button_clicked.png',
+                    'themes/apple/img/button_clicked.png',
+                    'themes/apple/img/grayButton.png',
+                    'themes/apple/img/whiteButton.png',
+                    'themes/apple/img/loading.gif'
+                    ]
+            });
+     
+            
+    var xmlDocQ;
+    var currentQuestion = new cQuestion; 
+  
+  function InitializeTopics()
+  {
+   
+    openXMLQ("dlq.xml");
+    currentQuestion = getQ(10101001);
+    currentQuestion = getQ(70202005);
+    currentQuestion = getQ(20201015);
+    var i,j;   
+    
+    //openXML("dlqt.xml");
+    $.ajax({
+        type: "GET",
+	    url: "dlqt.xml",
+	    dataType: "xml",
+	    success: function(xml) {
+ 	        i = 1;
+            $(xml).find('t').each(function(){
+                $('<li class="arrow"></li>').html('<a href="#level'+i+'">'+i + ". " + $(this).attr("text")+'</a>').appendTo('#level0');
+                $('<div id="level'+i+'"></div>').appendTo("body");                
+                $('<div class="toolbar"></div>').html('<a href="#" class="back">Back</a>').appendTo('#level'+i);
+                $('<div class="info"></div>').text(i + ". " + $(this).attr('text')).appendTo('#level'+i);
+                $('<ul></ul>').appendTo('#level'+i);
+                j=1;
+                $(this).find('t2').each(function(){
+                    var subID = parseInt($(this).attr('ID').substr(1,2),10);
+                    $('<li class="arrow"><a href="#question1234">'+i+'.'+subID+' '+ $(this).attr('text')+'</a></li>').appendTo('#level'+i+' ul'); 
+                    j++;
+                });
+                i++;        
+            });
+            $(document).ready(function() {
+                // If we have page set, make jQTouch go to that page
+                if (page) $jQT.goTo($(page), 'slide');
+             });
+        }
+    });
+  }
+  
+  function calcStartID(i,j)
+  {
+    return 10101001;
+  }
+    </script>
+
+</head>
+<body id="body" onload="InitializeTopics()">
+    <div id="home" class="current">
+        <div class="toolbar">
+            <h1>
+                iDLQ</h1>
+            <a class="button slideup" id="infoButton" href="#aboutme">Info</a>
+        </div>
+        <div class="navbar">
+            <ul>
+                <li class="button nb1">Book</li>
+                <li class="button nb2">Faults</li>
+                <li class="button nb3">Test</li>
+                <li class="button nb4">Info</li>
+            </ul>
+        </div>
+        <ul id="level0">
+        </ul>
+        <ul>
+            <li class="forward"><a class="fade" href="#aboutme">Über...</a></li>
+        </ul>
+    </div>
+    <div id="question1234">
+        <div class="toolbar">
+            <h1 id="qH1">1.</h1>
+            <a href="#" class="back" id="qBack">Back</a> 
+            <span class="button btNext"
+                id="qNext">Next</span> 
+            <a href="#question1234" class="button btPrev" id="qPrev">Prev</a>
+        </div>
+        <div class="question" id="qInfo">
+            question1234</div>
+        <ul id="qUl" class="form">
+            <li id="qA"></li>
+            <li id="qB"></li>
+            <li id="qC"></li>
+            <li id="qD"></li>
+        </ul>
+    </div>
+    <div id="question2">
+        <div class="toolbar">
+            <h1 id="H1">1.</h1>
+            <a href="#" class="back" id="A1">Back</a> 
+            <span class="button btNext"
+                id="qNext2">Next</span> 
+            <a href="#question1234" class="button btPrev" id="A2">Prev</a>
+        </div>
+        <div class="question" id="Div2">
+            question1234</div>
+        <ul id="qUl2" class="form">
+            <li id="qA2"></li>
+            <li id="qB2"></li>
+            <li id="qC3"></li>
+            <li id="qD4"></li>
+        </ul>
+    </div>
+    <div id="aboutme">
+        <div class="toolbar">
+            <h1>
+                About...</h1>
+            <a href="#" class="back">Back</a>
+        </div>
+        <div class="info">
+            &copy; 2010 ubicomputing.de<br />
+            <a href="mailto:eh@ubicomputing.de">eh@ubicomputing.de</a><br />
+            <br />
+            Use at your own risk.
+        </div>
+    </div>
+
+    <script type="text/javascript">
+    
+    
+        $("#qA").click(function (e) {
+            showSolution("A",currentQuestion.L);
+            e.preventDefault();
+            return false;
+        });
+        $("#qB").click(function (e) {
+            showSolution("B",currentQuestion.L);            
+            e.preventDefault();
+          return false;
+        });
+        $("#qC").click(function (e) {
+            showSolution("C",currentQuestion.L);
+            e.preventDefault();
+          return false;
+        });
+        $("#qD").click(function (e) {
+            showSolution("D",currentQuestion.L);
+            e.preventDefault();
+          return false;
+        });
+//        $("#qPrev").click(function (e) {
+//            alert("Prev");
+//           //e.preventDefault();
+//          return true;
+//        });
+        $("#qNext").click(function (e) 
+            {
+                getQnext(currentQuestion.ID);
+                $jQT.goTo($('#aboutme'),'none');
+                $jQT.goTo($('#question1234'),'pageflip');
+            
+               //e.preventDefault();
+              return true;
+            });
+        $("#qNext2").click(function (e) 
+        {
+            getQnext(currentQuestion.ID);
+            $jQT.goTo($('#question1234'),'pageflip');
+        
+           //e.preventDefault();
+          return true;
+        });
+    $('#question1234').bind("swipe",function(event, data){
+   alert(data.direction);
+});
+//$('#question1234').swipe(function(e, info){
+//                    if (info.direction === 'left') {
+//                        jQT.goTo($('#aboutme'), 'pageflip');
+//                    }
+//                });
+//                $('#question1234').swipe(function(e, info){
+//                    if (info.direction === 'right') {
+//                        jQT.goBack('#home');
+//                    }
+//                })
+    </script>
+
+</body>
+</html>

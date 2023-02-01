@@ -1,0 +1,123 @@
+﻿body { 
+}
+
+.hide 
+{
+	display:none;
+}
+
+.btPrev {
+    right: 49px;
+    width: 28px;	
+}
+
+.btNext {
+    right: 2px;
+    width: 28px;
+}
+
+.question {
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ccc), to(#aaa), color-stop(.6,#CCCCCC));
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    text-shadow: rgba(255,255,255,.8) 0 1px 0;
+    color: #444;
+    padding: 15px;
+    border-top: 1px solid rgba(255,255,255,.2);
+    font-weight: bold;
+}
+
+.btRight {
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0f0), to(#0c0), color-stop(.6,#00CC00));
+    color: Fuchsia; 
+    background-image: url(img/chevron.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+   
+}
+
+.btWrong {
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f00), to(#c00), color-stop(.6,#CC0000));
+	color: Aqua;
+    background-image: url(img/listArrowSel.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+
+}
+
+#qPic {
+	width: 42px;
+	height: 42px;
+}
+
+.navbar {
+    -webkit-box-sizing: border-box;
+    border-bottom: 1px solid #2d3642;
+    padding: 2px;
+    height: 35px;
+    background: url(img/toolbar.png) #6d84a2 repeat-x;
+    position: relative;
+}
+
+.navbar ul 
+{
+	color: black;
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 5px;
+    -webkit-border-radius: 0px;
+}
+
+.navbutton
+{
+	/*display: inline;*/
+    position: absolute;
+    overflow: hidden;
+    top: 8px;
+    right: 6px;
+    margin: 0;
+    border-width: 0 5px;
+    padding: 0 3px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px -1px 0;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    -webkit-border-image: url(img/toolButton.png) 0 5 0 5;
+
+}
+
+.nb1 
+{
+	top: 2px;
+	width: 30px;
+	left: 5%;
+}
+
+.nb2 
+{
+	top: 2px;
+	width: 30px;
+	left: 30%;
+}
+.nb3 
+{
+	top: 2px;
+	width: 30px;
+	left: 55%;
+}
+.nb4 
+{
+	top: 2px;
+	width: 30px;
+	left: 80%;
+}
